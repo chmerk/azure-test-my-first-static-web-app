@@ -12,6 +12,16 @@
   <main>
     <h1>Vanilla JavaScript App</h1>
   </main>
+  <script type="module" src="./www/build/cookie-manager-3.esm.js"></script> <script nomodule="" src="./www/build/cookie-manager-3.js"></script> </head> <body class="background"> <div class="main"> <h1 class="white-font" id="titleText">Digital Offer Consent Kit Demo Page</h1> <!-- Usage of the Cookie Manager --> <cookie-manager logging="debug"></cookie-manager> </div> <div class="menubar"> <label>Language: <select onchange="selectLanguage(this.value)"> <option value="en-gb">English</option> <option value="de-de">Deutsch</option> <option value="zh-hk">Languages of Hong Kong</option> <option value="de-at">Deutsch (Österreich) (with custom texts)</option> <option value="zh-tw">中文 (台灣) (with custom texts)</option> <option value="my-mm">Myanmar (with custom texts)</option> </select> </label> <label>Log Level: <select onchange="selectLogLevel(this.value)"> <option value="trace">trace</option> <option selected="" value="debug">debug</option> <option value="info">info</option> <option value="warn">warn</option> <option value="error">error</option> <option value="silent">silent</option> </select> </label> <button onclick="showCookieManager()">Show button</button> <!-- Use a link to open the modal, keep the link styling and set the ARIA role to satisfy accessibility --> <a role="button" onclick="showCookieManager()" href="#" style="color: white;">Show link</a> </div> <script>
+    if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+      // auto-unregister service worker during dev mode
+      navigator.serviceWorker.getRegistration().then(function(registration) {
+      if (registration) {
+        registration.unregister().then(function() { location.reload(true) });
+      }
+      });
+    }
+    </script>
 </body>
 
 </html>
