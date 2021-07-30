@@ -1,0 +1,83 @@
+<!doctype html><html dir="ltr" lang="en"><head> <meta charset="utf-8"> <link rel="icon" type="image/png" href="/assets/images/favicon.svg"> <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0"> <title>Digital Offer Consent Kit Demo Page</title> <!-- Includes the Bosch fonts --> <link rel="stylesheet" href="./build/cookie-manager-3.css"> <script type="application/json" id="consent-kit-settings">
+			{
+				"i18nOverride": {
+					"de-at": {
+						"description": {
+							"cookies": {
+								"all2": "INITIAL VIEW: DIES IST DER ERSTE CUSTOM TEXT."
+							}
+						},
+						"comfortCookieDescription": {
+							"text": "EDIT VIEW: DIES IST EIN CUSTOM TEXT."
+						},
+						"smallprint": {
+							"settings": {
+								"term": "INITIAL VIEW: DIES IST DER ZWEITE CUSTOM TEXT."
+							}
+						}
+					},
+					"zh-tw": {
+						"description": {
+							"cookies": {
+								"all": "THIS IS A CUSTOM TEXT."
+							}
+						}
+					},
+					"my-mm": {
+						"description": {
+							"cookies": {
+								"all": "THIS IS A CUSTOM TEXT."
+							}
+						},
+						"marketingCookieDescription": {
+							"button": {
+								"label": "CUSTOM MARKETING CONSENT TEXT"
+							}
+						}
+					}
+				}
+			}
+		</script> <!-- Gets the version number from a text file that is created during the build (not in development mode) --> <script>
+			const xhr = new XMLHttpRequest();
+			xhr.open("GET", "version.txt", true);
+			xhr.onloadend = function () {
+				let versionText = "build-version";
+				if (xhr.status !== 404) {
+					versionText = xhr.responseText;
+				}
+
+				// Need to use innerHTML for IE11 support
+				document.getElementById("titleText").innerHTML = "Digital Offer Consent Kit Demo Page: " + versionText;
+			};
+			xhr.send(null);
+
+			// Change the language from outside the Cookie Manager - async
+			function selectLanguage(locale) {
+				customElements.whenDefined("cookie-manager");
+				const cookieManager = document.querySelector("cookie-manager");
+				cookieManager.setAttribute("locale", locale);
+			}
+
+			// Change the log level from outside the Cookie Manager
+			function selectLogLevel(level) {
+				customElements.whenDefined("cookie-manager");
+				const cookieManager = document.querySelector("cookie-manager");
+				cookieManager.setAttribute("logging", level);
+			}
+
+			// Show the Cookie Manager
+			function showCookieManager() {
+				customElements.whenDefined("cookie-manager");
+				const cookieManager = document.querySelector("cookie-manager");
+				cookieManager.setAttribute("visible", "true");
+			}
+		</script> <!-- Includes the Cookie Manager --> <script type="module" src="./build/cookie-manager-3.esm.js"></script> <script nomodule="" src="./build/cookie-manager-3.js"></script> </head> <body class="background"> <div class="main"> <h1 class="white-font" id="titleText">Digital Offer Consent Kit Demo Page</h1> <!-- Usage of the Cookie Manager --> <cookie-manager logging="debug"></cookie-manager> </div> <div class="menubar"> <label>Language: <select onchange="selectLanguage(this.value)"> <option value="en-gb">English</option> <option value="de-de">Deutsch</option> <option value="zh-hk">Languages of Hong Kong</option> <option value="de-at">Deutsch (Österreich) (with custom texts)</option> <option value="zh-tw">中文 (台灣) (with custom texts)</option> <option value="my-mm">Myanmar (with custom texts)</option> </select> </label> <label>Log Level: <select onchange="selectLogLevel(this.value)"> <option value="trace">trace</option> <option selected="" value="debug">debug</option> <option value="info">info</option> <option value="warn">warn</option> <option value="error">error</option> <option value="silent">silent</option> </select> </label> <button onclick="showCookieManager()">Show button</button> <!-- Use a link to open the modal, keep the link styling and set the ARIA role to satisfy accessibility --> <a role="button" onclick="showCookieManager()" href="#" style="color: white;">Show link</a> </div> <script>
+if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+  // auto-unregister service worker during dev mode
+  navigator.serviceWorker.getRegistration().then(function(registration) {
+  if (registration) {
+    registration.unregister().then(function() { location.reload(true) });
+  }
+  });
+}
+</script></body></html>

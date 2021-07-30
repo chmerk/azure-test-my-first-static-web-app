@@ -1,0 +1,75 @@
+@font-face {
+  font-family: boschsans;
+  font-weight: 200;
+  font-style: normal;
+  src: url("../assets/fonts/boschsans_light.woff2") format("woff2"), url("../assets/fonts/boschsans_light.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: boschsans;
+  font-weight: 400;
+  font-style: normal;
+  src: url("../assets/fonts/boschsans_regular.woff2") format("woff2"), url("../assets/fonts/boschsans_regular.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: boschsans;
+  font-weight: 700;
+  font-style: normal;
+  src: url("../assets/fonts/boschsans_bold.woff2") format("woff2"), url("../assets/fonts/boschsans_bold.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-family: "pau-icon";
+  src: url("../assets/fonts/pau-icon.woff2") format("woff2");
+}
+.a-ui-icon {
+  background-image: url("../assets/images/sprite.svg");
+}
+
+.bbg-box-content {
+  padding: 5px;
+}
+
+body {
+  font-family: var(--pwc-font-family, boschsans, "Helvetica Neue", Helvetica, Arial, sans-serif);
+  /*
+  font-style: var(--pwc-font-style);
+  font-variant: var(--pwc-font-variant);
+  font-weight: var(--pwc-font-weight);
+  font-size: var(--pwc-font-size);
+  line-height: var(--pwc-line-height);
+  background: var(--pwc-background, transparent);
+  color: var(--pwc-color, currentColor);
+  */
+}
+
+.menubar {
+  height: 20px;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  background-color: #007bc0;
+  overflow-x: hidden;
+  padding: 5px;
+  color: #fff;
+}
+
+.main {
+  margin-bottom: 100px;
+  /* Same width as the sidebar */
+}
+
+.white-font {
+  color: #fff;
+}
+
+.background {
+  background: url("../assets/images/background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

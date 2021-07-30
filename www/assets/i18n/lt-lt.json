@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Privatumo nuostatos", "editView": "Šioje srityje galite koreguoti privatumo nuostatas." },
+	"description": {
+		"cookies": {
+			"all": "Šiame tinklalapyje nustatyti techniniais sumetimais būtini slapukai, kad naudotojams galėtume teikti savo pasiūlymus. Taip pat nustatytas slapukas, saugantis jūsų dabartinę privatumo nuostatų informaciją (pasirinkimo slapukas).",
+			"all2": "Techniškai nebūtini slapukai ir sekimo mechanizmai, kuriuos galima pasitelkti rinkodaros tikslais arba, pvz., norint išsaugoti naudotojo nuostatas, išskyrus slapuką, saugantį jūsų dabartinių privatumo nuostatų informaciją (pasirinkimo slapukas), naudojami tik tada, jei prieš tai sutikote su tokio naudojimo sąlygomis.",
+			"onlycomfort": "Šiame tinklalapyje nustatyti techniniais sumetimais būtini slapukai, kad naudotojams galėtume teikti savo pasiūlymus. Taip pat nustatytas slapukas, saugantis jūsų dabartinę privatumo nuostatų informaciją (pasirinkimo slapukas).",
+			"onlycomfort2": "Techniškai nebūtini slapukai, palengvinantys ir padarantys naršymą mūsų tinklalapyje patogesnį bei geriau pritaikytą naudotojui (su patogumu susiję slapukai), išskyrus pirmiau minėtą pasirinkimo slapuką, naudojami tik tada, jei prieš tai sutikote su tokio naudojimo sąlygomis.",
+			"onlymarketing": "Šiame tinklalapyje nustatyti techniniais sumetimais būtini slapukai, kad naudotojams galėtume teikti savo pasiūlymus. Taip pat nustatytas slapukas, saugantis jūsų dabartinę privatumo nuostatų informaciją (pasirinkimo slapukas).",
+			"onlymarketing2": "Techniškai nebūtini slapukai ir sekimo mechanizmai, leidžiantys mums pagerinti naudotojo patirtį ir teikti pritaikytus pasiūlymus (rinkodaros slapukai ir sekimo mechanizmai), naudojami tik tada, jei prieš tai sutikote su tokio naudojimo sąlygomis:",
+			"universal": "Šiame tinklalapyje nustatyti techniniais sumetimais būtini slapukai, kad naudotojams galėtume teikti savo pasiūlymus. Taip pat nustatytas slapukas, saugantis jūsų dabartinę privatumo nuostatų informaciją (pasirinkimo slapukas).",
+			"universal2": "Techniškai nebūtini slapukai ir sekimo mechanizmai, kurie pasitelkiami, pvz., norint išsaugoti naudotojo nuostatas arba rinkodaros tikslais, išskyrus pirmiau minėtą pasirinkimo slapuką, naudojami tik tada, jei prieš tai sutikote su tokio naudojimo sąlygomis."
+		},
+		"deactivate": {
+			"title": "Išjungti visus slapukus",
+			"text": "Jei norite išjungti visus slapukus, apsilankykite savo naršyklės nuostatose ir išjunkite slapukų nuostatą. Atkreipkite dėmesį, kad atlikus šį veiksmą gali suprastėti tinklalapio funkcijos."
+		},
+		"settings": {
+			"titleall": "Nuostatų, reglamentuojančių techniškai nebūtinų slapukų ir sekimo mechanizmų naudojimą, tvarkymas",
+			"titleonlycomfort": "Nuostatų, reglamentuojančių techniškai nebūtinų slapukų naudojimą, tvarkymas",
+			"titleonlymarketing": "Nuostatų, reglamentuojančių techniškai nebūtinų slapukų ir sekimo mechanizmų naudojimą, tvarkymas",
+			"titleuniversal": "Techniškai nebūtini slapukai ir sekimo mechanizmai, kuriuos galima pasitelkti rinkodaros tikslais arba, pvz., norint išsaugoti naudotojo nuostatas, išskyrus slapuką, saugantį jūsų dabartinių privatumo nuostatų informaciją (pasirinkimo slapukas), naudojami tik tada, jei prieš tai sutikote su tokio naudojimo sąlygomis. Toliau galite duoti sutikimą arba atšaukti sutikimus, kuriuos mums suteikėte, ir jūsų pasirinkimas bus taikomas nedelsiant.",
+			"textall": "Techniškai nebūtini slapukai ir sekimo mechanizmai, kuriuos galima pasitelkti rinkodaros tikslais arba, pvz., norint išsaugoti naudotojo nuostatas, išskyrus slapuką, saugantį jūsų dabartinių privatumo nuostatų informaciją (pasirinkimo slapukas), naudojami tik tada, jei prieš tai sutikote su tokio naudojimo sąlygomis. Toliau galite duoti sutikimą arba atšaukti sutikimus, kuriuos mums suteikėte, ir jūsų pasirinkimas bus taikomas nedelsiant.",
+			"textonlycomfort": "Techniškai nebūtini slapukai, palengvinantys ir padarantys naršymą mūsų tinklalapyje patogesnį bei geriau pritaikytą naudotojui (su patogumu susiję slapukai), išskyrus slapuką, kuriame saugoma jūsų dabartinių privatumo nuostatų informacija (pasirinkimo slapukas), naudojami tik tada, jei prieš tai sutikote su tokio naudojimo sąlygomis. Toliau galite duoti arba atšaukti sutikimą, kurį mums suteikėte, ir jūsų pasirinkimas bus taikomas nedelsiant.",
+			"textonlymarketing": "Techniškai nebūtini slapukai ir sekimo mechanizmai, leidžiantys mums pagerinti naudotojo patirtį ir teikti pritaikytus pasiūlymus (rinkodaros slapukai ir sekimo mechanizmai), naudojami tik tada, jei prieš tai sutikote su tokio naudojimo sąlygomis. Toliau galite duoti arba atšaukti sutikimą, kurį mums suteikėte, ir jūsų pasirinkimas bus taikomas nedelsiant.",
+			"textuniversal": "Techniškai nebūtini slapukai ir sekimo mechanizmai, kuriuos galima pasitelkti rinkodaros tikslais arba, pvz., norint išsaugoti naudotojo nuostatas, išskyrus slapuką, saugantį jūsų dabartinių privatumo nuostatų informaciją (pasirinkimo slapukas), naudojami tik tada, jei prieš tai sutikote su tokio naudojimo sąlygomis. Toliau galite duoti sutikimą arba atšaukti sutikimus, kuriuos mums suteikėte, ir jūsų pasirinkimas bus taikomas nedelsiant."
+		},
+		"noCookies": {
+			"title": "Jūsų naršyklėje išjungti slapukai",
+			"text": "Jūsų naršyklėje nesaugomi jokie slapukai. Dėl to jums nereikia pasirinkti jokių nuostatų. Atkreipkite dėmesį, kad nenustatyti net ir techniškai būtini slapukai, todėl jūsų tinklalapio funkcijos gali suprastėti."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Patogumas",
+		"titleSettings": "Su patogumu susiję slapukai",
+		"text": "Nesutikus naudoti su patogumu susijusių slapukų, tam tikros funkcijos, palengvinančios ir padarančios naršymą mūsų tinklalapyje patogesnį bei geriau pritaikytą naudotojui, pvz., įsimenančios jūsų nuostatas, bus nepasiekiamos.",
+		"link": { "label": "Skaityti daugiau", "ariaLabel": "Daugiau informacijos apie slapukus" },
+		"button": { "label": "Leisti naudoti su patogumu susijusius slapukus" }
+	},
+	"marketingCookieDescription": {
+		"title": "Rinkodara",
+		"titleSettings": "Rinkodaros slapukai ir sekimo mechanizmai",
+		"text": "Rinkodaros slapukai ir sekimo mechanizmai leidžia mums pagerinti naudotojo patirtį bei teikti pritaikytus pasiūlymus.",
+		"link": { "label": "Skaityti daugiau", "ariaLabel": "Daugiau informacijos apie rinkodaros slapukus" },
+		"button": { "label": "Leisti naudoti rinkodaros slapukus" }
+	},
+	"general": { "closeAriaLabel": "Uždaryti", "acceptAllButtonLabel": "Sutinku su viskuo", "universalButtonLabel": "Gerai", "save": "Išsaugoti", "reject": "Nesutinku" },
+	"smallprint": {
+		"title": "Sutikimo atšaukimas",
+		"settings": {
+			"text": "Apsilankę privatumo nuostatų srityje SETTINGS_LINK, bet kuriuo metu galite duoti arba atšaukti sutikimą, kurį mums šioje srityje suteikėte, ir jūsų pasirinkimas bus taikomas nedelsiant.",
+			"linkLabel": "nuoroda",
+			"term": "privatumo nuostatos"
+		},
+		"policy": {
+			"text": "Jei apie tai norite sužinoti daugiau, peržiūrėkite POLICY_LINK pateiktą duomenų apsaugos informaciją.",
+			"linkLabel": "nuoroda",
+			"term": "Duomenų apsaugos pranešimas"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Leidimo duomenys (leidimo informacija)", "term": "Įmonės informacija" },
+		"saveDescription": "Jei spustelėsite „Išsaugoti“, bus naudojami tik jūsų pasirinkti slapukai.",
+		"withdrawDescription": "Apsilankę SETTINGS_LINK, bet kuriuo metu galite duoti arba atšaukti sutikimą, kurį mums šioje srityje suteikėte, ir jūsų pasirinkimas bus taikomas nedelsiant."
+	}
+}

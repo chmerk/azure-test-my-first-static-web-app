@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Paramètres de confidentialité", "editView": "Vous pouvez modifier vos paramètres de confidentialité ici." },
+	"description": {
+		"cookies": {
+			"all": "Les cookies qui sont essentiels pour des raisons techniques sont définis sur cette page Web afin que nous puissions présenter nos offres aux utilisateurs. Un cookie qui conserve vos paramètres de confidentialité est également défini (cookie de sélection).",
+			"all2": "Hormis le cookie qui enregistre vos paramètres de confidentialité actuels (cookie de sélection), les cookies qui ne sont pas techniquement essentiels et les mécanismes de suivi qui, par exemple, peuvent être utilisés à des fins marketing ou pour l'enregistrement des paramètres utilisateur, ne seront utilisés que si vous avez donné votre consentement préalable pour une telle utilisation :",
+			"onlycomfort": "Les cookies qui sont essentiels pour des raisons techniques sont définis sur cette page Web afin que nous puissions présenter nos offres aux utilisateurs. Un cookie qui conserve vos paramètres de confidentialité est également défini (cookie de sélection).",
+			"onlycomfort2": "Hormis le cookie de sélection mentionné ci-dessus, les cookies techniquement non essentiels qui permettent une navigation plus confortable, plus pratique et plus conviviale sur notre site Web (cookies de confort) ne seront utilisés que si vous avez donné votre consentement préalable pour une telle utilisation.",
+			"onlymarketing": "Les cookies qui sont essentiels pour des raisons techniques sont définis sur cette page Web afin que nous puissions présenter nos offres aux utilisateurs. Un cookie qui conserve vos paramètres de confidentialité est également défini (cookie de sélection).",
+			"onlymarketing2": "Les cookies techniquement non essentiels et les mécanismes de suivi, qui nous permettent de vous proposer une meilleure expérience utilisateur' et des offres personnalisées (cookies de marketing et mécanismes de suivi), ne seront utilisés que si vous nous avez donné votre consentement préalable pour une telle utilisation :",
+			"universal": "Les cookies qui sont essentiels pour des raisons techniques sont définis sur cette page Web afin que nous puissions présenter nos offres aux utilisateurs. Un cookie qui conserve vos paramètres de confidentialité est également défini (cookie de sélection).",
+			"universal2": "Hormis le cookie de sélection mentionné ci-dessus, les cookies qui ne sont pas techniquement essentiels et les mécanismes de suivi qui, par exemple, sont utilisés pour l'enregistrement des paramètres utilisateur ou à des fins marketing, ne seront utilisés que si vous avez donné votre consentement préalable pour une telle utilisation :"
+		},
+		"deactivate": {
+			"title": "Désactiver tous les cookies",
+			"text": "Si vous souhaitez désactiver tous les cookies, accédez aux paramètres de votre navigateur et désactivez la mise en place des cookies. Veuillez noter que cette opération peut avoir une incidence sur les fonctionnalités du site Web."
+		},
+		"settings": {
+			"titleall": "Gestion de vos paramètres qui gouvernent l'utilisation des cookies techniquement non essentiels et les mécanismes de suivi",
+			"titleonlycomfort": "Gestion de vos paramètres qui gouvernent l'utilisation des cookies techniquement non essentiels",
+			"titleonlymarketing": "Gestion de vos paramètres qui gouvernent l'utilisation des cookies techniquement non essentiels et les mécanismes de suivi",
+			"titleuniversal": "Hormis le cookie qui enregistre vos paramètres de confidentialité actuels (cookie de sélection), les cookies qui ne sont pas techniquement essentiels et les mécanismes de suivi qui, par exemple, peuvent être utilisés à des fins marketing ou pour l'enregistrement des paramètres utilisateur, ne seront utilisés que si vous avez donné votre consentement préalable pour une telle utilisation. Ci-dessous, vous pouvez nous donner des consentements ou retirer des consentements déjà accordés, avec effet immédiat :",
+			"textall": "Hormis le cookie qui enregistre vos paramètres de confidentialité actuels (cookie de sélection), les cookies qui ne sont pas techniquement essentiels et les mécanismes de suivi qui, par exemple, peuvent être utilisés à des fins marketing ou pour l'enregistrement des paramètres utilisateur, ne seront utilisés que si vous avez donné votre consentement préalable pour une telle utilisation. Ci-dessous, vous pouvez nous donner des consentements ou retirer des consentements déjà accordés, avec effet immédiat :",
+			"textonlycomfort": "Hormis le cookie qui enregistre vos paramètres de confidentialité actuels (cookie de sélection), les cookies techniquement non essentiels qui permettent une navigation plus confortable, plus pratique et plus conviviale sur notre site Web (cookies de confort) ne seront utilisés que si vous avez donné votre consentement préalable pour une telle utilisation. Ci-dessous, vous pouvez nous donner votre consentement ou retirer le consentement déjà accordé, avec effet immédiat :",
+			"textonlymarketing": "Les cookies techniquement non essentiels et les mécanismes de suivi, qui nous permettent de vous proposer une meilleure expérience utilisateur' et des offres personnalisées (cookies de marketing et mécanismes de suivi), ne seront utilisés que si vous nous avez donné votre consentement préalable pour une telle utilisation. Ci-dessous, vous pouvez nous donner des consentements ou retirer un consentement déjà accordé, avec effet immédiat.",
+			"textuniversal": "Hormis le cookie qui enregistre vos paramètres de confidentialité actuels (cookie de sélection), les cookies qui ne sont pas techniquement essentiels et les mécanismes de suivi qui, par exemple, peuvent être utilisés à des fins marketing ou pour l'enregistrement des paramètres utilisateur, ne seront utilisés que si vous avez donné votre consentement préalable pour une telle utilisation. Ci-dessous, vous pouvez nous donner des consentements ou retirer des consentements déjà accordés, avec effet immédiat :"
+		},
+		"noCookies": {
+			"title": "Les cookies sont désactivés dans votre navigateur",
+			"text": "Aucun cookie n'est stocké dans votre navigateur. Par conséquent, aucune définition de paramètre n'est nécessaire de votre part. Notez que même les cookies techniquement essentiels ne sont pas définis et cela peut avoir une incidence sur le fonctionnement du site Web."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Confort",
+		"titleSettings": "Cookies de confort",
+		"text": "Sans les cookies de confort, certaines fonctions qui permettent une navigation plus confortable, plus pratique et conviviale sur notre site Web, comme la prise en compte de vos paramètres, sont indisponibles.",
+		"link": { "label": "En savoir davantage", "ariaLabel": "Informations supplémentaires sur cookies de confort" },
+		"button": { "label": "Donner le consentement pour les cookies de confort" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketing",
+		"titleSettings": "Cookies marketing et mécanismes de suivi",
+		"text": "Les cookies marketing et les mécanismes de suivi nous permettent de vous offrir une meilleure expérience utilisateur et des offres personnalisées.",
+		"link": { "label": "En savoir davantage", "ariaLabel": "Informations supplémentaires sur les cookies marketing" },
+		"button": { "label": "Donner le consentement pour les cookies marketing" }
+	},
+	"general": { "closeAriaLabel": "Fermer", "acceptAllButtonLabel": "Tout accepter", "universalButtonLabel": "OK", "save": "Enregistrer", "reject": "Rejeter" },
+	"smallprint": {
+		"title": "Retrait de consentement",
+		"settings": {
+			"text": "Sous vos paramètres de confidentialité SETTINGS_LINK, vous pouvez retirer à tout moment le consentement que vous avez accordé ici, avec effet immédiat.",
+			"linkLabel": "lien",
+			"term": "paramètres de confidentialité"
+		},
+		"policy": {
+			"text": "Consultez nos informations relatives à la protection des données pour plus de détails à ce sujet POLICY_LINK.",
+			"linkLabel": "lien",
+			"term": "Informations sur la protection des données"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (informations de publication)", "term": "Informations sur l'entreprise" },
+		"saveDescription": "Quand vous aurez cliqué sur « Enregistrer », seuls les cookies que vous avez sélectionnés seront utilisés.",
+		"withdrawDescription": "Sous SETTINGS_LINK, vous pouvez retirer à tout moment le consentement que vous avez accordé ici, avec effet immédiat."
+	}
+}

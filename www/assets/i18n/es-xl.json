@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Configuración de privacidad", "editView": "Se puede ajustar la configuración de privacidad aquí" },
+	"description": {
+		"cookies": {
+			"all": "Las cookies que son esenciales por razones técnicas se configuraron en este sitio web para ofrecer nuestros servicios a los usuarios. También se define una cookie que almacena su configuración de privacidad actual (cookie de selección).",
+			"all2": "Con excepción de la cookie de selección, las cookies técnicamente no esenciales y los mecanismos de seguimiento, que nos permiten brindarle una experiencia de usuario superior y ofertas personalizadas (cookies de marketing y mecanismos de seguimiento), solo se utilizan si ha dado su consentimiento previo para su utilización:",
+			"onlycomfort": "Las cookies que son esenciales por razones técnicas se configuraron en este sitio web para ofrecer nuestros servicios a los usuarios. También se define una cookie que almacena su configuración de privacidad actual (cookie de selección).",
+			"onlycomfort2": "Con la excepción de la cookie de selección, las cookies técnicamente no esenciales, que nos permiten brindarle una experiencia de usuario superior (cookies de confort), solo se utilizan si ha dado su consentimiento previo para dicho uso.",
+			"onlymarketing": "Las cookies que son esenciales por razones técnicas se configuraron en este sitio web para ofrecer nuestros servicios a los usuarios. También se define una cookie que almacena su configuración de privacidad actual (cookie de selección).",
+			"onlymarketing2": "Con la excepción de la cookie de selección, las cookies técnicamente no esenciales y los mecanismos de seguimiento, que nos permiten ofrecerle ofertas personalizadas (cookies de marketing y mecanismos de seguimiento), solo se utilizan si ha dado su consentimiento previo para dicho uso:",
+			"universal": "Las cookies que son esenciales por razones técnicas se configuraron en este sitio web para ofrecer nuestros servicios a los usuarios. También se define una cookie que almacena su configuración de privacidad actual (cookie de selección).",
+			"universal2": "Con la excepción de la cookie de selección, las cookies técnicamente no esenciales y los mecanismos de seguimiento, que nos permiten ofrecerle ofertas personalizadas (cookies de marketing y mecanismos de seguimiento), solo se utilizan si ha dado su consentimiento previo para dicho uso:"
+		},
+		"deactivate": {
+			"title": "Deshabilitar todas las cookies",
+			"text": "Si desea desactivar todas las cookies, vaya a la configuración de su navegador y desactívela. Tenga en cuenta que esto puede afectar la funcionalidad del sitio web."
+		},
+		"settings": {
+			"titleall": "Administración de su configuración que rige el uso de cookies y mecanismos de seguimiento técnicamente no esenciales",
+			"titleonlycomfort": "Administración de configuración que rige el uso de cookies técnicamente no esenciales",
+			"titleonlymarketing": "Administración de su configuración que rige el uso de cookies y mecanismos de seguimiento técnicamente no esenciales",
+			"titleuniversal": "Con la excepción de la cookie que almacena su configuración de privacidad actual (cookie de selección), las cookies técnicamente no esenciales y los mecanismos de seguimiento, que nos permiten brindarle una experiencia de usuario superior y ofertas personalizadas (cookies de marketing y mecanismos de seguimiento), son solo se utiliza si ha dado su consentimiento previo para dicho uso. A continuación, puede otorgarnos su consentimiento o retirar los consentimientos que nos haya otorgado, con efecto inmediato.",
+			"textall": "Con la excepción de la cookie que almacena su configuración de privacidad actual (cookie de selección), las cookies técnicamente no esenciales y los mecanismos de seguimiento, que nos permiten brindarle una experiencia de usuario superior y ofertas personalizadas (cookies de marketing y mecanismos de seguimiento), son solo se utiliza si ha dado su consentimiento previo para dicho uso. A continuación, puede otorgarnos su consentimiento o retirar los consentimientos que nos haya otorgado, con efecto inmediato.",
+			"textonlycomfort": "Con la excepción de la cookie que almacena su configuración de privacidad actual (cookie de selección), las cookies técnicamente no esenciales, que nos permiten brindarle una experiencia de usuario superior, solo se usan si ha dado su consentimiento previo para dicho uso. A continuación, puede otorgarnos su consentimiento o retirar el consentimiento que nos otorgó, con efecto inmediato.",
+			"textonlymarketing": "Con la excepción de la cookie que almacena su configuración de privacidad actual (cookie de selección), las cookies técnicamente no esenciales y los mecanismos de seguimiento, que nos permiten ofrecerle ofertas personalizadas (cookies de marketing y mecanismos de seguimiento), solo se utilizan si usted ha dado consentimiento previo para tal uso. A continuación, puede otorgarnos su consentimiento o retirar el consentimiento que nos otorgó, con vigencia inmediata.",
+			"textuniversal": "Con la excepción de la cookie que almacena su configuración de privacidad actual (cookie de selección), las cookies técnicamente no esenciales y los mecanismos de seguimiento, que nos permiten ofrecerle ofertas personalizadas (cookies de marketing y mecanismos de seguimiento), solo se utilizan si usted ha dado consentimiento previo para tal uso. A continuación, puede otorgarnos su consentimiento o retirar el consentimiento que nos otorgó, con vigencia inmediata."
+		},
+		"noCookies": {
+			"title": "Las cookies están deshabilitadas en su explorador",
+			"text": "No hay cookies almacenadas en su explorador. Por lo tanto, no es necesario modificar ninguna configuración. Tenga en cuenta que no se están usando las cookies técnicamente esenciales, de modo que el uso del sitio web puede verse afectado."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Comodidad",
+		"titleSettings": "Cookies de comodidad",
+		"text": "Sin cookies de comodidad, ciertas funciones que facilitan la comodidad y facilidad de navegación en el sitio web, como el almacenamiento de configuración, no está disponible.",
+		"link": { "label": "Leer más", "ariaLabel": "Más información acerca de las cookies de comodidad" },
+		"button": { "label": "Consentimiento para las cookies de comodidad" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketing",
+		"titleSettings": "Cookies de marketing y mecanismos de seguimiento",
+		"text": "Las cookies de marketing y los mecanismos de seguimiento nos permiten entregar una experiencia de usuario superior, además de ofertas personalizadas.",
+		"link": { "label": "Leer más", "ariaLabel": "Más información acerca de cookies de marketing" },
+		"button": { "label": "Consentimiento a las cookies de marketing" }
+	},
+	"general": { "closeAriaLabel": "Cerrar", "acceptAllButtonLabel": "Aceptar todas", "universalButtonLabel": "Aceptar", "save": "Guardar", "reject": "Rechazar" },
+	"smallprint": {
+		"title": "Retirada de consentimiento",
+		"settings": {
+			"text": "En su configuración de privacidad SETTINGS_LINK, en cualquier momento puede decidir retirar el consentimiento aquí otorgado, efectivo inmediatamente.",
+			"linkLabel": "enlace",
+			"term": "configuración de privacidad"
+		},
+		"policy": {
+			"text": "Consulte nuestra información de protección de datos para obtener detalles sobre esto POLICY_LINK.",
+			"linkLabel": "enlace",
+			"term": "Aviso de protección de datos"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (información de publicación)", "term": "Información corporativa" },
+		"saveDescription": "Cuando haga clic en \"Guardar\" solo se utilizarán las cookies que seleccionó.",
+		"withdrawDescription": "En la SETTINGS_LINK, en cualquier momento puede decidir retractar el consentimiento aquí otorgado, efectivo inmediatamente."
+	}
+}

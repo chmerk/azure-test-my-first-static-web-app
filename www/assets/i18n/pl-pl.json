@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Ustawienia prywatności", "editView": "Tutaj można dostosować ustawienia prywatności." },
+	"description": {
+		"cookies": {
+			"all": "Aby umożliwić użytkownikom korzystanie z naszej oferty, w tej witrynie wykorzystujemy pliki cookie, które są z technicznego punktu widzenia niezbędne do jej właściwego funkcjonowania. Oprócz tego ustawiamy także plik cookie, który zapisuje bieżące ustawienia prywatności użytkownika (cookie wyboru).",
+			"all2": "Z wyjątkiem pliku cookie, który zapisuje bieżące ustawienia prywatności użytkownika (cookie wyboru) pliki cookie, które nie są istotne ze względów technicznych oraz mechanizmy śledzenia, które mogą być używane do celów marketingowych lub np. do zapisywania ustawień użytkownika są przez nasz używane tylko po uprzednim wyrażeniu na to zgody przez użytkownika:",
+			"onlycomfort": "Aby umożliwić użytkownikom korzystanie z naszej oferty, w tej witrynie wykorzystujemy pliki cookie, które są z technicznego punktu widzenia niezbędne do jej właściwego funkcjonowania. Oprócz tego ustawiamy także plik cookie, który zapisuje bieżące ustawienia prywatności użytkownika (cookie wyboru).",
+			"onlycomfort2": "Z wyjątkiem wymienionego wyżej cookie wyboru pliki cookie, które nie są istotne z technicznego punktu widzenia, lecz mają na celu usprawnienie przeglądania witryny i zwiększenie wygody użytkowania (funkcjonalne pliki cookie), są wykorzystywane wyłącznie wówczas, gdy użytkownik wyrazi na to zgodę.",
+			"onlymarketing": "Aby umożliwić użytkownikom korzystanie z naszej oferty, w tej witrynie wykorzystujemy pliki cookie, które są z technicznego punktu widzenia niezbędne do jej właściwego funkcjonowania. Oprócz tego ustawiamy także plik cookie, który zapisuje bieżące ustawienia prywatności użytkownika (cookie wyboru).",
+			"onlymarketing2": "Pliki cookie i mechanizmy śledzenia, które nie są istotne ze względów technicznych, lecz umożliwiają nam zwiększenie wygody użytkowania i kierowanie do użytkowników indywidualnych ofert (marketingowe pliki cookie i mechanizmy śledzenia), są wykorzystywane wyłącznie wówczas, gdy użytkownik wyrazi na to zgodę:",
+			"universal": "Aby umożliwić użytkownikom korzystanie z naszej oferty, w tej witrynie wykorzystujemy pliki cookie, które są z technicznego punktu widzenia niezbędne do jej właściwego funkcjonowania. Oprócz tego ustawiamy także plik cookie, który zapisuje bieżące ustawienia prywatności użytkownika (cookie wyboru).",
+			"universal2": "Z wyjątkiem wymienionego wyżej cookie wyboru pliki cookie, które nie są istotne ze względów technicznych oraz mechanizmy śledzenia, które mogą być używane do zapisywania ustawień użytkownika lub do celów marketingowych są przez nasz używane tylko po uprzednim wyrażeniu na to zgody przez użytkownika:"
+		},
+		"deactivate": {
+			"title": "Wyłączenie wszystkich plików cookie",
+			"text": "Aby wyłączyć wszystkie pliki cookie, przejdź do ustawień przeglądarki i wyłącz ustawienie plików cookie. Pamiętaj, że może to negatywnie wpłynąć na funkcjonalność witryny."
+		},
+		"settings": {
+			"titleall": "Zarządzenie ustawieniami plików cookie i mechanizmów śledzenia nieistotnych ze względów technicznych",
+			"titleonlycomfort": "Zarządzenie ustawieniami plików cookie, które nie są istotne z technicznego punktu widzenia",
+			"titleonlymarketing": "Zarządzenie ustawieniami plików cookie i mechanizmów śledzenia nieistotnych ze względów technicznych",
+			"titleuniversal": "Z wyjątkiem pliku cookie, który zapisuje bieżące ustawienia prywatności użytkownika (cookie wyboru) pliki cookie, które nie są istotne ze względów technicznych oraz mechanizmy śledzenia, które mogą być używane do celów marketingowych lub np. do zapisywania ustawień użytkownika są przez nasz używane tylko po uprzednim wyrażeniu na to zgody przez użytkownika. Poniżej użytkownik może udzielić zgody lub cofnąć wyrażone zgody ze skutkiem natychmiastowym:",
+			"textall": "Z wyjątkiem pliku cookie, który zapisuje bieżące ustawienia prywatności użytkownika (cookie wyboru) pliki cookie, które nie są istotne ze względów technicznych oraz mechanizmy śledzenia, które mogą być używane do celów marketingowych lub np. do zapisywania ustawień użytkownika są przez nasz używane tylko po uprzednim wyrażeniu na to zgody przez użytkownika. Poniżej użytkownik może udzielić zgody lub cofnąć wyrażone zgody ze skutkiem natychmiastowym:",
+			"textonlycomfort": "Z wyjątkiem pliku cookie, który zapisuje bieżące ustawienia prywatności użytkownika (cookie wyboru) cookie, które nie są istotne z technicznego punktu widzenia, lecz mają na celu usprawnienie przeglądania witryny i zwiększenie wygody użytkowania (funkcjonalne pliki cookie), są wykorzystywane wyłącznie wówczas, gdy użytkownik wyrazi na to zgodę. Poniżej użytkownik może udzielić zgody lub cofnąć wyrażoną zgodę ze skutkiem natychmiastowym:",
+			"textonlymarketing": "Pliki cookie i mechanizmy śledzenia, które nie są istotne ze względów technicznych, lecz umożliwiają nam zwiększenie wygody użytkowania i kierowanie do użytkowników indywidualnych ofert (marketingowe pliki cookie i mechanizmy śledzenia), są wykorzystywane wyłącznie wówczas, gdy użytkownik wyrazi na to zgodę. Poniżej użytkownik może udzielić zgody lub cofnąć wyrażoną zgodę ze skutkiem natychmiastowym.",
+			"textuniversal": "Z wyjątkiem pliku cookie, który zapisuje bieżące ustawienia prywatności użytkownika (cookie wyboru) pliki cookie, które nie są istotne ze względów technicznych oraz mechanizmy śledzenia, które mogą być używane do celów marketingowych lub np. do zapisywania ustawień użytkownika są przez nasz używane tylko po uprzednim wyrażeniu na to zgody przez użytkownika. Poniżej użytkownik może udzielić zgody lub cofnąć wyrażone zgody ze skutkiem natychmiastowym:"
+		},
+		"noCookies": {
+			"title": "Obsługa plików cookie w przeglądarce jest wyłączona",
+			"text": "W przeglądarce użytkownika nie są zachowywane żadne pliki cookie. Z tego względu użytkownik nie musi zmieniać żadnych ustawień. Oznacza to, że nawet pliki cookie istotne z technicznego punktu widzenia są wyłączone, co może mieć wpływ funkcjonowanie witryny."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Funkcjonalne",
+		"titleSettings": "Funkcjonalne pliki cookie",
+		"text": "Funkcjonalne pliki cookie są niezbędne do działania określonych funkcji, które zwiększają wygodę użytkowania naszej witryny, na przykład umożliwiają zapisanie ustawień użytkownika.",
+		"link": { "label": "Więcej informacji", "ariaLabel": "Więcej informacji o funkcjonalnych plikach cookie" },
+		"button": { "label": "Zgoda na wykorzystywanie funkcjonalnych plików cookie" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketingowe",
+		"titleSettings": "Marketingowe pliki cookie i mechanizmy śledzenia",
+		"text": "Marketingowe pliki cookie wraz z mechanizmami śledzenia umożliwiają nam zwiększenie wygody użytkowania, a także kierowanie do użytkowników indywidualnych ofert.",
+		"link": { "label": "Więcej informacji", "ariaLabel": "Więcej informacji o marketingowych plikach cookie" },
+		"button": { "label": "Zgoda na wykorzystywanie marketingowych plików cookie" }
+	},
+	"general": { "closeAriaLabel": "Zamknij", "acceptAllButtonLabel": "Zaakceptuj wszystkie", "universalButtonLabel": "OK", "save": "Zapisz", "reject": "Odrzuć" },
+	"smallprint": {
+		"title": "Cofnięcie zgody",
+		"settings": {
+			"text": "Użytkownik, który udzielił zgody, może ją cofnąć w dowolnym czasie ze skutkiem natychmiastowym. W tym celu należy przejść do ustawień prywatności SETTINGS_LINK.",
+			"linkLabel": "link",
+			"term": "ustawienia prywatności"
+		},
+		"policy": {
+			"text": "Prosimy o zapoznanie się ze szczegółowymi informacjami na temat ochrony danych POLICY_LINK.",
+			"linkLabel": "link",
+			"term": "Informacje o ochronie prywatności"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Stopka redakcyjna (informacje o publikacji)", "term": "Informacje o firmie" },
+		"saveDescription": "Po kliknięciu przycisku „Zapisz” będą używane tylko zaznaczone przez Ciebie cookie.",
+		"withdrawDescription": "Udzieloną tu zgodę możesz odwołać w dowolnym czasie ze skutkiem natychmiastowym. W tym celu przejdź do swoich ustawień prywatności tutaj (SETTINGS_LINK)."
+	}
+}

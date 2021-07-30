@@ -1,0 +1,60 @@
+{
+	"title": { "initialView": "Sekretessinställningar", "editView": "Anpassa dina sekretessinställningarna här." },
+	"description": {
+		"cookies": {
+			"all": "Av tekniska skäl använder vi cookies på den här webbplatsen för att kunna tillhandhålla erbjudanden till våra användare. Vi använder även en cookie som lagrar dina aktuella sekretessinställningar.",
+			"all2": "Med undantag för den cookie som lagrar dina aktuella sekretessinställningar används endast tekniskt ej nödvändiga cookies och spårningsmekanismer, som kan användas i marknadsföringssyften eller för att spara användarinställningar, om du har godkänt det i förväg:",
+			"onlycomfort": "Av tekniska skäl använder vi cookies på den här webbplatsen för att kunna tillhandhålla erbjudanden till våra användare. Vi använder även en cookie som lagrar dina aktuella sekretessinställningar.",
+			"onlycomfort2": "Med undantag för den cookie som nämns ovan används endast tekniskt ej nödvändiga cookies, som gör användningen av vår webbplats bekvämare, om du har godkänt det i förväg:",
+			"onlymarketing": "Av tekniska skäl använder vi cookies på den här webbplatsen för att kunna tillhandhålla erbjudanden till våra användare. Vi använder även en cookie som lagrar dina aktuella sekretessinställningar.",
+			"onlymarketing2": "Tekniskt ej nödvändiga cookies och spårningsmekanismer används för att ge dig en överlägsen användarerfarenhet och anpassade erbjudanden (marknadsföringscookies och spårningsmekanismer) används endast om du har godkänt det i förväg:",
+			"universal": "Av tekniska skäl använder vi cookies på den här webbplatsen för att kunna tillhandhålla erbjudanden till våra användare. Vi använder även en cookie som lagrar dina aktuella sekretessinställningar.",
+			"universal2": "Med undantag för den cookie som nämns ovan används endast tekniskt ej nödvändiga cookies och spårningsmekanismer, som till exempel används för att spara användarinställningar eller i marknadsföringssyften, om du har godkänt det i förväg:"
+		},
+		"deactivate": {
+			"title": "Inaktivera alla cookies",
+			"text": "Om du vill inaktivera alla cookies går du till webbläsarens inställningar och inaktiverar inställningen för cookies. Observera att detta kan försämra webbplatsens funktioner."
+		},
+		"settings": {
+			"titleall": "Hantera inställningarna som styr användningen av tekniskt ej nödvändiga cookies och spårningsmekanismer",
+			"titleonlycomfort": "Hantera inställningarna som styr användningen av tekniskt ej nödvändiga cookies.",
+			"titleonlymarketing": "Hantera inställningarna som styr användningen av tekniskt ej nödvändiga cookies och spårningsmekanismer",
+			"titleuniversal": "Med undantag för den cookie som lagrar dina aktuella sekretessinställningar används endast tekniskt ej nödvändiga cookies och spårningsmekanismer, som kan användas i marknadsföringssyften eller för att spara användarinställningar, om du har godkänt det i förväg. Nedan kan du ge oss ditt godkännande eller dra tillbaka ditt godkännande med omedelbar verkan:",
+			"textall": "Med undantag för den cookie som lagrar dina aktuella sekretessinställningar används endast tekniskt ej nödvändiga cookies och spårningsmekanismer, som kan användas i marknadsföringssyften eller för att spara användarinställningar, om du har godkänt det i förväg. Nedan kan du ge oss ditt godkännande eller dra tillbaka ditt godkännande med omedelbar verkan:",
+			"textonlycomfort": "Med undantag för den cookie som lagrar dina aktuella sekretessinställningar används endast tekniskt ej nödvändiga cookies, som gör användningen av vår webbplats bekvämare, om du har godkänt det i förväg: Nedan kan du ge oss ditt godkännande eller dra tillbaka ditt godkännande med omedelbar verkan:",
+			"textonlymarketing": "Tekniskt ej nödvändiga cookies och spårningsmekanismer används för att ge dig en överlägsen användarerfarenhet och anpassade erbjudanden (marknadsföringscookies och spårningsmekanismer) används endast om du har godkänt det i förväg. Nedan kan du ge oss ditt godkännande eller dra tillbaka ditt godkännande med omedelbar verkan.",
+			"textuniversal": "Med undantag för den cookie som lagrar dina aktuella sekretessinställningar används endast tekniskt ej nödvändiga cookies och spårningsmekanismer, som kan användas i marknadsföringssyften eller för att spara användarinställningar, om du har godkänt det i förväg. Nedan kan du ge oss ditt godkännande eller dra tillbaka ditt godkännande med omedelbar verkan:"
+		},
+		"noCookies": {
+			"title": "Cookies inaktiveras i din webbläsare",
+			"text": "Inga cookies lagras i din webbläsare. Därför behövs det inte göras några inställningar för din del. Observera att även tekniskt nödvändiga cookies inte är installerade och webbplatsens funktion kan vara försämrad."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Bekvämlighet",
+		"titleSettings": "Bekvämlighetscookies",
+		"text": "Utan bekvämlighetscookies kan vissa funktioner som underlättar bekvämlighet och användarvänlig surfning på webbplatsen, som att ta hänsyn till dina inställningar, inte vara tillgängliga.",
+		"link": { "label": "Ta reda på mer", "ariaLabel": "Mer information om bekvämlighetscookies" },
+		"button": { "label": "Acceptera bekvämlighetscookies" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marknadsföringscookies",
+		"titleSettings": "Marknadsföringscookies och spårningsmekanismer",
+		"text": "Marknadsföringscookies och spårningsmekanismer gör så att vi kan ge dig en överlägsen användarupplevelse och personligt anpassade erbjudanden.",
+		"link": { "label": "Ta reda på mer", "ariaLabel": "Mer information om marknadsföringscookies" },
+		"button": { "label": "Acceptera marknadsföringscookies" }
+	},
+	"general": { "closeAriaLabel": "Stäng", "acceptAllButtonLabel": "Godkänn alla", "universalButtonLabel": "OK", "save": "Spara", "reject": "Godkänn inte" },
+	"smallprint": {
+		"title": "Ta tillbaka godkännande",
+		"settings": {
+			"text": "Under sekretessinställningar SETTINGS_LINK kan du ta tillbaka ditt godkännande när som helst med omedelbar verkan.",
+			"linkLabel": "länk",
+			"term": "sekretessinställningar"
+		},
+		"policy": { "text": "Läs mer om detaljerna i vår dataskyddsinformation avseende detta POLICY_LINK.", "linkLabel": "länk", "term": "Meddelande om dataskydd" },
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (publiceringsinformation)", "term": "Företagsinformation" },
+		"saveDescription": "Om du klickar på ”Spara” används endast de cookies du har valt.",
+		"withdrawDescription": "Under SETTINGS_LINK kan du ta tillbaka ditt godkännande när som helst med omedelbar verkan."
+	}
+}

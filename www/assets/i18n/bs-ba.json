@@ -1,0 +1,60 @@
+{
+	"title": { "initialView": "Postavke privatnosti", "editView": "Ovdje možete prilagoditi postavke privatnosti." },
+	"description": {
+		"cookies": {
+			"all": "Na ovoj web stranici se postavljaju kolačići koji su neophodni iz tehničkih razloga kako bismo korisnicima pružali naše ponude. Postavlja se i kolačić koji pohranjuje vaše trenutne postavke privatnosti (izborni kolačić).",
+			"all2": "Osim kolačića koji pohranjuje vaše trenutne postavke privatnosti (izborni kolačić), kolačići koji nisu tehnički neophodni i mehanizmi praćenja koji se npr. mogu koristiti u marketinške svrhe ili za pohranu postavki korisnika, isključivo se koriste ako ste prethodno pristali na njihovo korištenje:",
+			"onlycomfort": "Na ovoj web stranici se postavljaju kolačići koji su neophodni iz tehničkih razloga kako bismo korisnicima pružali naše ponude. Postavlja se i kolačić koji pohranjuje vaše trenutne postavke privatnosti (izborni kolačić).",
+			"onlycomfort2": "Osim izbornog kolačića spomenutog iznad, kolačići koji nisu tehnički neophodni a koji olakšavaju pretraživanje naše web lokacije i čine je korisnički prilagođenom (kolačići za udobnost) koriste se isključivo ako ste prethodno pristali na njihovo korištenje.",
+			"onlymarketing": "Na ovoj web stranici se postavljaju kolačići koji su neophodni iz tehničkih razloga kako bismo korisnicima pružali naše ponude. Postavlja se i kolačić koji pohranjuje vaše trenutne postavke privatnosti (izborni kolačić).",
+			"onlymarketing2": "Kolačići koji nisu tehnički neophodni i mehanizmi praćenja koji nam omogućavaju da vam pružimo vrhunsko korisničko iskustvo i prilagođene ponude (marketinški kolačići i mehanizmi praćenja) koriste se isključivo ako ste prethodno pristali na njihovo korištenje:",
+			"universal": "Na ovoj web stranici se postavljaju kolačići koji su neophodni iz tehničkih razloga kako bismo korisnicima pružali naše ponude. Postavlja se i kolačić koji pohranjuje vaše trenutne postavke privatnosti (izborni kolačić).",
+			"universal2": "Osim izbornog kolačića spomenutog iznad, kolačići koji nisu tehnički neophodni i mehanizmi praćenja koji se npr. mogu koristiti za pohranu postavki korisnika ili u marketinške svrhe, isključivo se koriste ako ste prethodno pristali na njihovo korištenje:"
+		},
+		"deactivate": {
+			"title": "Onemogućavanje svih kolačića",
+			"text": "Ako želite onemogućiti sve kolačiće, idite na postavke svog preglednika i deaktivirajte postavke kolačića. Napominjemo da ovo može umanjiti funkcionalnost web lokacije."
+		},
+		"settings": {
+			"titleall": "Upravljanje postavkama koje određuju korištenje kolačića koji nisu tehnički neophodni i mehanizama praćenja",
+			"titleonlycomfort": "Upravljanje postavkama koje određuju korištenje kolačića koji nisu tehnički neophodni",
+			"titleonlymarketing": "Upravljanje postavkama koje određuju korištenje kolačića koji nisu tehnički neophodni i mehanizama praćenja",
+			"titleuniversal": "Osim kolačića koji pohranjuje vaše trenutne postavke privatnosti (izborni kolačić), kolačići koji nisu tehnički neophodni i mehanizmi praćenja koji se npr. mogu koristiti u marketinške svrhe ili za pohranu postavki korisnika, isključivo se koriste ako ste prethodno pristali na njihovo korištenje. Ispod nam možete dati saglasnost ili povući prethodno date saglasnosti čije izmjene stupaju na snagu odmah:",
+			"textall": "Osim kolačića koji pohranjuje vaše trenutne postavke privatnosti (izborni kolačić), kolačići koji nisu tehnički neophodni i mehanizmi praćenja koji se npr. mogu koristiti u marketinške svrhe ili za pohranu postavki korisnika, isključivo se koriste ako ste prethodno pristali na njihovo korištenje. Ispod nam možete dati saglasnost ili povući prethodno date saglasnosti čije izmjene stupaju na snagu odmah:",
+			"textonlycomfort": "Osim kolačića koji pohranjuje vaše trenutne postavke privatnosti (izborni kolačić), kolačići koji nisu tehnički neophodni a koji olakšavaju pretraživanje naše web lokacije i čine je korisnički prilagođenom (kolačići za udobnost) koriste se isključivo ako ste prethodno pristali na njihovo korištenje. Ispod nam možete dati saglasnost ili povući prethodno datu saglasnosti čije izmjene stupaju na snagu odmah:",
+			"textonlymarketing": "Kolačići koji nisu tehnički neophodni i mehanizmi praćenja koji nam omogućavaju da vam pružimo vrhunsko korisničko iskustvo i prilagođene ponude (marketinški kolačići i mehanizmi praćenja) koriste se isključivo ako ste prethodno pristali na njihovo korištenje. Ispod nam možete dati saglasnost ili povući prethodno datu saglasnosti čije izmjene stupaju na snagu odmah.",
+			"textuniversal": "Osim kolačića koji pohranjuje vaše trenutne postavke privatnosti (izborni kolačić), kolačići koji nisu tehnički neophodni i mehanizmi praćenja koji se npr. mogu koristiti u marketinške svrhe ili za pohranu postavki korisnika, isključivo se koriste ako ste prethodno pristali na njihovo korištenje. Ispod nam možete dati saglasnost ili povući prethodno date saglasnosti čije izmjene stupaju na snagu odmah:"
+		},
+		"noCookies": {
+			"title": "Kolačići su onemogućeni u vašem pregledniku",
+			"text": "Nijedan kolačić se ne pohranjuje u vašem pregledniku. Stoga nije potrebno postavljanje postavki s vaše strane. Napominjemo da nisu postavljeni čak ni tehnički neophodni kolačići stoga funkcija web lokacije može biti umanjena."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Udobnost",
+		"titleSettings": "Kolačići za udobnost",
+		"text": "Bez kolačića za udobnost, nisu dostupne određene funkcije koje olakšavaju pretraživanje naše web lokacije i čine je korisnički prilagođenom kao što je bilježenje vaših postavki.",
+		"link": { "label": "Pročitajte više", "ariaLabel": "Više informacija o Kolačićima za udobnost" },
+		"button": { "label": "Pristanak na Kolačiće za udobnost" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketing",
+		"titleSettings": "Marketinški kolačići i mehanizmi praćenja",
+		"text": "Marketinški kolačići i mehanizmi praćenja nam omogućavaju da vam pružimo vrhunsko korisničko iskustvo kao i prilagođene ponude.",
+		"link": { "label": "Pročitajte više", "ariaLabel": "Više informacija o Marketinškim kolačićima" },
+		"button": { "label": "Pristanak na Marketinške kolačiće" }
+	},
+	"general": { "closeAriaLabel": "Zatvori", "acceptAllButtonLabel": "Prihvati sve", "universalButtonLabel": "U redu", "save": "Sačuvaj", "reject": "Odbij" },
+	"smallprint": {
+		"title": "Povlačenje pristanka",
+		"settings": {
+			"text": "U postavkama privatnosti SETTINGS_LINK možete u svakom trenutku povući pristanak koji ste dali ovdje a čija izmjena stupa na snagu odmah.",
+			"linkLabel": "veza",
+			"term": "postavke privatnosti"
+		},
+		"policy": { "text": "Pogledajte naše informacije o zaštiti podataka za više detalja o ovome POLICY_LINK.", "linkLabel": "veza", "term": "Obavještenje o zaštiti podataka" },
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impresum (informacije o objavljivanju)", "term": "Korporativne informacije" },
+		"saveDescription": "Kada kliknete „Sačuvaj“, koristit će se samo kolačići koje ste odabrali.",
+		"withdrawDescription": "U okviru SETTINGS_LINK možete u svakom trenutku povući pristanak koji ste dali ovdje a čija izmjena stupa na snagu odmah."
+	}
+}

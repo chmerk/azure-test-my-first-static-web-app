@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Definições de Privacidade", "editView": "Pode ajustar as suas definições de privacidade aqui." },
+	"description": {
+		"cookies": {
+			"all": "Os cookies essenciais por motivos técnicos são definidos nesta página Web, para que possamos facultar as nossas ofertas aos utilizadores. Um cookie que armazena as suas configurações de privacidade atuais também é definido (cookie de seleção).",
+			"all2": "À exceção do cookie que armazena as suas configurações de privacidade atuais (cookie de seleção), os cookies tecnicamente não essenciais e os mecanismos de controlo, que podem ser utilizados, por exemplo, para fins de marketing ou para guardar configurações do utilizador, só serão utilizados mediante o consentimento prévio do utilizador:",
+			"onlycomfort": "Os cookies essenciais por motivos técnicos são definidos nesta página Web, para que possamos facultar as nossas ofertas aos utilizadores. Um cookie que armazena as suas configurações de privacidade atuais também é definido (cookie de seleção).",
+			"onlycomfort2": "À exceção do cookie que armazena as suas configurações de privacidade atuais (cookie de seleção), os cookies tecnicamente não essenciais, que tornam a navegação no nosso Website mais confortável, conveniente e prática (cookies de conforto), só serão utilizados mediante o consentimento prévio do utilizador.",
+			"onlymarketing": "Os cookies essenciais por motivos técnicos são definidos nesta página Web, para que possamos facultar as nossas ofertas aos utilizadores. Um cookie que armazena as suas configurações de privacidade atuais também é definido (cookie de seleção).",
+			"onlymarketing2": "Os mecanismos de controlo e os cookies tecnicamente não essenciais, que nos permitem proporcionar-lhe uma experiência de utilização de nível superior e fazer ofertas personalizadas (cookies de marketing), só serão utilizados mediante o consentimento prévio do utilizador:",
+			"universal": "Os cookies essenciais por motivos técnicos são definidos nesta página Web, para que possamos facultar as nossas ofertas aos utilizadores. Um cookie que armazena as suas configurações de privacidade atuais também é definido (cookie de seleção).",
+			"universal2": "À exceção do cookie de seleção, referido acima, os cookies tecnicamente não essenciais e os mecanismos de controlo, que servem, por exemplo, para guardar configurações do utilizador ou para fins de marketing, só serão utilizados mediante o consentimento prévio do utilizador:"
+		},
+		"deactivate": {
+			"title": "Desativar todos os cookies",
+			"text": "Se pretender desativar todos os cookies, aceda às definições do seu navegador e desative a definição de cookies. Tenha em conta que esta ação pode prejudicar o bom funcionamento do Website."
+		},
+		"settings": {
+			"titleall": "Gerir as suas definições, que definem a utilização de mecanismos de controlo e cookies tecnicamente não essenciais",
+			"titleonlycomfort": "Gerir as suas definições, que definem a utilização de cookies tecnicamente não essenciais",
+			"titleonlymarketing": "Gerir as suas definições, que definem a utilização de mecanismos de controlo e cookies tecnicamente não essenciais",
+			"titleuniversal": "À exceção do cookie que armazena as suas configurações de privacidade atuais (cookie de seleção), os cookies tecnicamente não essenciais e os mecanismos de controlo, que podem ser utilizados, por exemplo, para fins de marketing ou para guardar configurações do utilizador, só serão utilizados mediante o consentimento prévio do utilizador. Abaixo, pode dar o seu consentimento ou remover consentimentos previamente concedidos, com entrada imediata em vigor:",
+			"textall": "À exceção do cookie que armazena as suas configurações de privacidade atuais (cookie de seleção), os cookies tecnicamente não essenciais e os mecanismos de controlo, que podem ser utilizados, por exemplo, para fins de marketing ou para guardar configurações do utilizador, só serão utilizados mediante o consentimento prévio do utilizador. Abaixo, pode dar o seu consentimento ou remover consentimentos previamente concedidos, com entrada imediata em vigor:",
+			"textonlycomfort": "À exceção do cookie que armazena as suas configurações de privacidade atuais (cookie de seleção), os cookies tecnicamente não essenciais, que tornam a navegação no nosso Website mais confortável, conveniente e prática (cookies de conforto), só serão utilizados mediante o consentimento prévio do utilizador. Abaixo, pode dar o seu consentimento ou remover o consentimento previamente concedido, com entrada imediata em vigor:",
+			"textonlymarketing": "Os mecanismos de controlo e os cookies tecnicamente não essenciais, que nos permitem proporcionar-lhe uma experiência de utilização de nível superior e fazer ofertas personalizadas (cookies de marketing), só serão utilizados mediante o consentimento prévio do utilizador. Abaixo, pode dar o seu consentimento ou remover o consentimento previamente concedido, com entrada imediata em vigor.",
+			"textuniversal": "À exceção do cookie que armazena as suas configurações de privacidade atuais (cookie de seleção), os cookies tecnicamente não essenciais e os mecanismos de controlo, que podem ser utilizados, por exemplo, para fins de marketing ou para guardar configurações do utilizador, só serão utilizados mediante o consentimento prévio do utilizador. Abaixo, pode dar o seu consentimento ou remover consentimentos previamente concedidos, com entrada imediata em vigor:"
+		},
+		"noCookies": {
+			"title": "Os cookies estão desativados no seu navegador",
+			"text": "Não existem cookies armazenados no seu navegador. Pelo que não são necessárias definições, da sua parte. Tenha em conta que os cookies tecnicamente essenciais não se encontram definidos, o que poderá prejudicar o bom funcionamento do Website."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Conforto",
+		"titleSettings": "Cookies de conforto",
+		"text": "Sem os cookies e conforto, determinadas funções que tornam a navegação no nosso Website mais confortável, conveniente e prática, como por exemplo a memorização das suas definições, não estão disponíveis.",
+		"link": { "label": "Ler mais", "ariaLabel": "Mais informações acerca de Cookies de Conforto" },
+		"button": { "label": "Consentimento para utilização de Cookies de Conforto" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketing",
+		"titleSettings": "Mecanismos de controlo e cookies de marketing",
+		"text": "Os mecanismos de controlo e os cookies de marketing permitem-nos proporcionar-lhe uma experiência de utilização de nível superior e apresentar-lhe ofertas personalizadas.",
+		"link": { "label": "Ler mais", "ariaLabel": "Mais informações acerca de Cookies de Marketing" },
+		"button": { "label": "Consentimento para utilização de Cookies de Marketing" }
+	},
+	"general": { "closeAriaLabel": "Fechar", "acceptAllButtonLabel": "Aceitar tudo", "universalButtonLabel": "OK", "save": "Guardar", "reject": "Recusar" },
+	"smallprint": {
+		"title": "Remover consentimento",
+		"settings": {
+			"text": "Pode remover o consentimento que concedeu aqui, a qualquer momento, nas suas definições de privacidade SETTINGS_LINK, com entrada imediata em vigor.",
+			"linkLabel": "hiperligação",
+			"term": "definições de privacidade"
+		},
+		"policy": {
+			"text": "Consulte os nossos dados de proteção de dados para mais informações a este respeito POLICY_LINK.",
+			"linkLabel": "hiperligação",
+			"term": "Aviso de proteção de dados"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impresso (publicação de informação)", "term": "Informações corporativas" },
+		"saveDescription": "Quando clica em «Guardar» apenas serão utilizados os cookies que selecionou.",
+		"withdrawDescription": "Pode remover o consentimento que concedeu aqui, a qualquer momento e com entrada imediata em vigor em SETTINGS_LINK."
+	}
+}

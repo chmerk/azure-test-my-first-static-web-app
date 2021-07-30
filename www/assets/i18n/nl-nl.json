@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Privacy-instellingen", "editView": "U kunt hier uw privacy-instellingen aanpassen." },
+	"description": {
+		"cookies": {
+			"all": "Cookies die om technische redenen van groot belang zijn, worden op deze webpagina ingesteld, zodat onze aanbiedingen beschikbaar worden gesteld aan gebruikers. Via de keuze cookie worden uw huidige privacy-instellingen bewaard.",
+			"all2": "Afgezien van de cookie die uw huidige privacy-instellingen bewaart (keuzecookie), worden technisch niet-essentiële cookies en traceringsmechanismen, die bijvoorbeeld voor de marketing dienen en om gebruikersinstellingen te bewaren, enkel ingezet na uw voorafgaande toestemming voor een dergelijk gebruik:",
+			"onlycomfort": "Cookies die om technische redenen van groot belang zijn, worden op deze webpagina ingesteld, zodat onze aanbiedingen beschikbaar worden gesteld aan gebruikers. Via de keuze cookie worden uw huidige privacy-instellingen bewaard.",
+			"onlycomfort2": "Afgezien van de eerder vermelde keuzecookie, worden technisch niet-essentiële cookies, die bijvoorbeeld dienen om het surfen op onze website handiger en gebruiksvriendelijker te maken (gemakscookies), enkel ingezet na uw voorafgaande toestemming voor een dergelijk gebruik.",
+			"onlymarketing": "Cookies die om technische redenen van groot belang zijn, worden op deze webpagina ingesteld, zodat onze aanbiedingen beschikbaar worden gesteld aan gebruikers. Via de keuze cookie worden uw huidige privacy-instellingen bewaard.",
+			"onlymarketing2": "Technisch gezien worden niet-essentiële cookies en traceringsmechanismen die ons in staat stellen om u een superieure gebruikerservaring en aangepaste aanbiedingen te bieden (marketing-cookies en traceringsmechanismen), enkel gebruikt als u vooraf uw toestemming hebt gegeven voor dergelijk gebruik:",
+			"universal": "Cookies die om technische redenen van groot belang zijn, worden op deze webpagina ingesteld, zodat onze aanbiedingen beschikbaar worden gesteld aan gebruikers. Via de keuze cookie worden uw huidige privacy-instellingen bewaard.",
+			"universal2": "Afgezien van de eerder vermelde keuzecookie, worden technisch niet-essentiële cookies en traceringsmechanismen, die bijvoorbeeld dienen om gebruikersinstellingen te bewaren of voor marketingdoeleinden, enkel ingezet na uw voorafgaande toestemming voor een dergelijk gebruik:"
+		},
+		"deactivate": {
+			"title": "Alle cookies uitschakelen",
+			"text": "Wanneer u alle cookies wilt uitschakelen, gaat u naar uw browserinstellingen en schakelt u daar de cookies uit. Houd er rekening mee dat dit ten koste kan gaan van de functionaliteit van de website."
+		},
+		"settings": {
+			"titleall": "Beheer van uw instellingen die het gebruik van technisch gezien niet-essentiële cookies en traceringsmechanismen bepalen",
+			"titleonlycomfort": "Beheer van uw instellingen die het gebruik van technisch gezien niet-essentiële cookies bepalen",
+			"titleonlymarketing": "Beheer van uw instellingen die het gebruik van technisch gezien niet-essentiële cookies en traceringsmechanismen bepalen",
+			"titleuniversal": "Afgezien van de cookie die uw huidige privacy-instellingen bewaart (keuzecookie), worden technisch niet-essentiële cookies en traceringsmechanismen, die bijvoorbeeld voor de marketing dienen en om gebruikersinstellingen te bewaren, enkel ingezet na uw voorafgaande toestemming voor een dergelijk gebruik. Hieronder kunt u met onmiddellijke ingang uw toestemming geven of de toestemming die u ons eerder hebt gegeven intrekken:",
+			"textall": "Afgezien van de cookie die uw huidige privacy-instellingen bewaart (keuzecookie), worden technisch niet-essentiële cookies en traceringsmechanismen, die bijvoorbeeld voor de marketing dienen en om gebruikersinstellingen te bewaren, enkel ingezet na uw voorafgaande toestemming voor een dergelijk gebruik. Hieronder kunt u met onmiddellijke ingang uw toestemming geven of de toestemming die u ons eerder hebt gegeven intrekken:",
+			"textonlycomfort": "Afgezien van de cookie die uw huidige privacy-instellingen bewaart (keuzecookie), worden technisch niet-essentiële cookies, die dienen om het surfen op onze website handiger en gebruiksvriendelijker te maken (gemakscookies), enkel ingezet na uw voorafgaande toestemming voor een dergelijk gebruik. Hieronder kunt u met onmiddellijke ingang uw toestemming geven of de toestemming die u ons eerder hebt gegeven intrekken:",
+			"textonlymarketing": "Technisch gezien worden niet-essentiële cookies en traceringsmechanismen die ons in staat stellen om u een superieure gebruikerservaring en aangepaste aanbiedingen te bieden (marketing-cookies en traceringsmechanismen), enkel gebruikt als u vooraf uw toestemming heeft gegeven voor dergelijk gebruik. Hieronder kunt u met onmiddellijke ingang uw toestemming geven of de toestemming die u ons eerder hebt gegeven intrekken.",
+			"textuniversal": "Afgezien van de cookie die uw huidige privacy-instellingen bewaart (keuzecookie), worden technisch niet-essentiële cookies en traceringsmechanismen, die bijvoorbeeld voor de marketing dienen en om gebruikersinstellingen te bewaren, enkel ingezet na uw voorafgaande toestemming voor een dergelijk gebruik. Hieronder kunt u met onmiddellijke ingang uw toestemming geven of de toestemming die u ons eerder hebt gegeven intrekken."
+		},
+		"noCookies": {
+			"title": "Cookies zijn uitgeschakeld in uw browser",
+			"text": "Er worden geen cookies opgeslagen in uw browser. U hoeft daarom geen instellingen te wijzigen. Denk eraan dat zelfs cookies die technisch gezien essentieel zijn, niet worden ingesteld en dat de functionaliteit van de website hierdoor kan worden aangetast."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Gemak",
+		"titleSettings": "Gemakscookies",
+		"text": "Zonder gemakscookies zijn bepaalde functies die het surfen op onze website comfortabeler, gemakkelijker en gebruiksvriendelijker maken (zoals het vermelden van uw instellingen) niet beschikbaar.",
+		"link": { "label": "Meer informatie", "ariaLabel": "Meer informatie over gemakscookies" },
+		"button": { "label": "Toestemming geven voor gemakscookies" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketing",
+		"titleSettings": "Marketing-cookies en traceringsmechanismen",
+		"text": "Marketing-cookies en traceringsmechanismen stellen ons in staat om u een superieure gebruikerservaring en aangepaste aanbiedingen te bieden.",
+		"link": { "label": "Meer informatie", "ariaLabel": "Meer informatie over marketing-cookies" },
+		"button": { "label": "Toestemming geven voor marketing-cookies" }
+	},
+	"general": { "closeAriaLabel": "Sluiten", "acceptAllButtonLabel": "Alles accepteren", "universalButtonLabel": "OK", "save": "Opslaan", "reject": "Weigeren" },
+	"smallprint": {
+		"title": "Toestemming intrekken",
+		"settings": {
+			"text": "In uw privacy-instellingen SETTINGS_LINK kunt u op elk gewenst moment de toestemming die u hier hebt gegeven, met onmiddellijke ingang intrekken.",
+			"linkLabel": "koppeling",
+			"term": "privacy-instellingen"
+		},
+		"policy": {
+			"text": "Zie onze informatie over gegevensbescherming voor meer informatie hierover POLICY_LINK.",
+			"linkLabel": "koppeling",
+			"term": "Kennisgeving van gegevensbescherming"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (publicatie-informatie)", "term": "Bedrijfsinformatie" },
+		"saveDescription": "Wanneer u op “Opslaan” klikt, worden alleen de door u geselecteerde cookies gebruikt.",
+		"withdrawDescription": "In uw SETTINGS_LINK kunt u op elk gewenst moment de toestemming die u hier hebt gegeven met onmiddellijke ingang intrekken."
+	}
+}

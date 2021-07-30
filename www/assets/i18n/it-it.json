@@ -1,0 +1,60 @@
+{
+	"title": { "initialView": "Impostazioni sulla privacy", "editView": "Qui è possibile modificare le impostazioni sulla privacy." },
+	"description": {
+		"cookies": {
+			"all": "Questa pagina web utilizza cookie tecnicamente necessari che ci consentono di offrire una migliore esperienza utente. Vengono inoltre utilizzati cookie per la memorizzazione delle impostazioni privacy correnti (cookie di selezione).",
+			"all2": "I meccanismi di monitoraggio e i cookie tecnicamente non necessari utilizzati, ad esempio per finalità di marketing o per salvare le impostazioni dell‘utente, vengono utilizzati esclusivamente qualora l‘utente abbia fornito il proprio consenso.",
+			"onlycomfort": "Questa pagina web utilizza cookie tecnicamente necessari che ci consentono di offrire una migliore esperienza utente. Vengono inoltre utilizzati cookie per la memorizzazione delle impostazioni privacy correnti (cookie di selezione).",
+			"onlycomfort2": "I cookie tecnicamente non necessari che agevolano e semplificano la navigazione del sito (cookie di funzionalità), vengono utilizzati esclusivamente qualora l‘utente abbia fornito il proprio consenso.",
+			"onlymarketing": "Questa pagina web utilizza cookie tecnicamente necessari che ci consentono di offrire una migliore esperienza utente. Vengono inoltre utilizzati cookie per la memorizzazione delle impostazioni privacy correnti (cookie di selezione).",
+			"onlymarketing2": "I meccanismi di monitoraggio e i cookie tecnicamente non necessari che ci consentono di offrire una migliore esperienza utente e offerte personalizzate (cookie di marketing e meccanismi di tracciamento), vengono utilizzati esclusivamente qualora l‘utente abbia fornito il proprio consenso.",
+			"universal": "Questa pagina web utilizza cookie tecnicamente necessari che ci consentono di offrire una migliore esperienza utente. Vengono inoltre utilizzati cookie per la memorizzazione delle impostazioni privacy correnti (cookie di selezione).",
+			"universal2": "I meccanismi di monitoraggio e i cookie tecnicamente non necessari che vengono utilizzati per esempio per salvare le impostazioni dell'utente oppure per finalità di marketing, vengono utilizzati esclusivamente qualora l‘utente abbia fornito il proprio consenso."
+		},
+		"deactivate": {
+			"title": "Disabilitare tutti i cookie",
+			"text": "Se si desidera disabilitare tutti i cookie, andare nelle impostazioni del browser e disattivare l‘impostazione relativa ai cookie. Si noti che questo potrebbe compromettere la funzionalità del sito web."
+		},
+		"settings": {
+			"titleall": "Gestione delle impostazioni relative a meccanismi di monitoraggio e cookie tecnicamente non necessari",
+			"titleonlycomfort": "Gestione delle impostazioni relative ai cookie tecnicamente non necessari",
+			"titleonlymarketing": "Gestione delle impostazioni relative a meccanismi di monitoraggio e cookie tecnicamente non necessari",
+			"titleuniversal": "Ad eccezione dei cookie che memorizzano le impostazioni della privacy correnti (cookie di selezione), i meccanismi di monitoraggio e i cookie tecnicamente non necessari utilizzati, ad esempio per finalità di marketing o per salvare le impostazioni dell‘utente, vengono utilizzati esclusivamente qualora l‘utente abbia fornito il proprio consenso. Di seguito è possibile concedere o revocare il proprio consenso con effetto immediato:",
+			"textall": "Ad eccezione dei cookie che memorizzano le impostazioni della privacy correnti (cookie di selezione), i meccanismi di monitoraggio e i cookie tecnicamente non necessari utilizzati, ad esempio per finalità di marketing o per salvare le impostazioni dell‘utente, vengono utilizzati esclusivamente qualora l‘utente abbia fornito il proprio consenso. Di seguito è possibile concedere o revocare il proprio consenso con effetto immediato:",
+			"textonlycomfort": "Ad eccezione dei cookie che memorizzano le impostazioni della privacy correnti (cookie di selezione), i cookie tecnicamente non necessari che agevolano e semplificano la navigazione del sito (cookie di funzionalità), vengono utilizzati esclusivamente qualora l‘utente abbia fornito il proprio consenso. Di seguito è possibile concedere o revocare il proprio consenso con effetto immediato:",
+			"textonlymarketing": "I meccanismi di monitoraggio e i cookie tecnicamente non necessari che ci consentono di offrire una migliore esperienza utente e offerte personalizzate (cookie di marketing e meccanismi di tracciamento), vengono utilizzati esclusivamente qualora l‘utente abbia fornito il proprio consenso. Di seguito è possibile concedere o revocare il proprio consenso con effetto immediato:",
+			"textuniversal": "Ad eccezione dei cookie che memorizzano le impostazioni della privacy correnti (cookie di selezione), i meccanismi di monitoraggio e i cookie tecnicamente non necessari utilizzati, ad esempio per finalità di marketing o per salvare le impostazioni dell‘utente, vengono utilizzati esclusivamente qualora l‘utente abbia fornito il proprio consenso. Di seguito è possibile concedere o revocare il proprio consenso con effetto immediato:"
+		},
+		"noCookies": {
+			"title": "I cookie sono disabilitati nel browser",
+			"text": "I cookie non vengono memorizzati nel browser. Pertanto, non sono necessarie impostazioni da parte dell'utente. Si noti che anche i cookie tecnicamente necessari non sono abilitati e ciò potrebbe compromettere il funzionamento del sito Web."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Funzionalità",
+		"titleSettings": "Cookie di funzionalità",
+		"text": "Senza questi cookie, alcune funzioni che agevolano e semplificano la navigazione del sito, ad esempio la memorizzazione delle impostazioni dell‘utente, non sarebbero possibili.",
+		"link": { "label": "Ulteriori informazioni", "ariaLabel": "Ulteriori informazioni sui cookie di funzionalità" },
+		"button": { "label": "Consenso ai cookie di funzionalità" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketing",
+		"titleSettings": "Meccanismi di monitoraggio e cookie di marketing",
+		"text": "I meccanismi di tracciamento e i cookie di marketing ci consentono di offrire una migliore esperienza utente e offerte personalizzate.",
+		"link": { "label": "Ulteriori informazioni", "ariaLabel": "Ulteriori informazioni sui cookie di marketing" },
+		"button": { "label": "Consenso ai cookie di marketing" }
+	},
+	"general": { "closeAriaLabel": "Chiudi", "acceptAllButtonLabel": "Accetta tutti", "universalButtonLabel": "OK", "save": "Salva", "reject": "Rifiuta" },
+	"smallprint": {
+		"title": "Revoca del consenso",
+		"settings": {
+			"text": "Nelle SETTINGS_LINK è possibile revocare il consenso dato in qualsiasi momento, con effetto immediato.",
+			"linkLabel": "impostazioni della privacy",
+			"term": "impostazioni sulla privacy"
+		},
+		"policy": { "text": "Per ulteriori informazioni consultare la nostra POLICY_LINK.", "linkLabel": "Informativa Privacy", "term": "Avviso sulla protezione dei dati" },
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Imprint (informazioni sulla pubblicazione)", "term": "Informazioni aziendali" },
+		"saveDescription": "Facendo clic su «Salva» verranno utilizzati solo i cookie selezionati.",
+		"withdrawDescription": "Nelle SETTINGS_LINK, è possibile ritirare il consenso dato qui in qualsiasi momento, con effetto immediato."
+	}
+}

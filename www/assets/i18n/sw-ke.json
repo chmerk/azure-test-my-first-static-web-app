@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Mipangilio ya Faragha", "editView": "Unaweza kurekebisha mipangilio yako ya faragha hapa." },
+	"description": {
+		"cookies": {
+			"all": "Vidakuzi ambavyo ni muhimu kwa sababu za kiufundi vimewekwa kwenye ukurasa huu ili tuweze kuwapa watumiaji matoleo yetu. Kidakuzi ambacho uhifadhi mipangilio yako ya sasa ya faragha kimewekwa pia (kidakuzi cha uteuzi).",
+			"all2": "Bila kujumuisha kidakuzi ambacho uhifadhi mipangilio yako ya sasa ya faragha (kidakuzi cha uteuzi), kwa mfano, vidakuzi vya kiufundi visivyokuwa vya maana na mbinu za ufuatiliaji ambazo zinaweza kutumiwa kwa malengo ya utangazaji au kuhifadhi mipangilio ya mtumiaji, hutumiwa tu ikiwa umetoa kibali cha mapema cha matumizi hayo:",
+			"onlycomfort": "Vidakuzi ambavyo ni muhimu kwa sababu za kiufundi vimewekwa kwenye ukurasa huu ili tuweze kuwapa watumiaji matoleo yetu. Kidakuzi ambacho uhifadhi mipangilio yako ya sasa ya faragha kimewekwa pia (kidakuzi cha uteuzi).",
+			"onlycomfort2": "Bila kujumuisha kidakuzi cha uteuzi kilichotajwa hapo juu, vidakuzi vya kiufundi visivyokuwa vya maana hufanya kuvinjari kwenye tovuti yetu kuwa rahisi kwa watumiaji (vidakuzi vya urahisi) hutumiwa tu ikiwa umetoa kibali cha mapema cha matumizi hayo.",
+			"onlymarketing": "Vidakuzi ambavyo ni muhimu kwa sababu za kiufundi vimewekwa kwenye ukurasa huu ili tuweze kuwapa watumiaji matoleo yetu. Kidakuzi ambacho uhifadhi mipangilio yako ya sasa ya faragha kimewekwa pia (kidakuzi cha uteuzi).",
+			"onlymarketing2": "Vidakuzi na mbinu za ufuatiliaji zisizokuwa muhimu za kiufundi ambazo zinatuwezesha kukupa uzoefu wa kipekee wa mtumiaji na ofa zilizogeuzwa kukufaa (vidakuzi vya mauzo na mbinu za ufuatiliaji) hutumiwa tu ikiwa umetoa kibali cha mapema cha matumizi yake.",
+			"universal": "Vidakuzi ambavyo ni muhimu kwa sababu za kiufundi vimewekwa kwenye ukurasa huu ili tuweze kuwapa watumiaji matoleo yetu. Kidakuzi ambacho uhifadhi mipangilio yako ya sasa ya faragha kimewekwa pia (kidakuzi cha uteuzi).",
+			"universal2": "Bila kujumuisha kidakuzi cha uteuzi kilichotajwa hapo juu, vidakuzi vya kiufundi visivyokuwa vya maana na mbinu za ufuatiliaji ambazo kwa mfano hutumiwa kuhifadhi mipangilio ya mtumiaji au kwa malengo ya utangazaji, hutumiwa tu ikiwa umetoa kibali cha mapema cha matumizi hayo:"
+		},
+		"deactivate": {
+			"title": "Lemaza vidakuzi vyote",
+			"text": "Ikiwa ungependa kulemaza vidakuzi vyote, tafadhali nenda kwenye mipangilio yako ya kuvinjari na ulemaze mipangilio ya vidakuzi. Tafadhali kumbuka kwamba hii inaweza kutatiza utendakazi wa tovuti."
+		},
+		"settings": {
+			"titleall": "Kudhibiti mipangilio yako ambayo husimamia matumizi ya vidakuzi na mbinu za ufuatiliaji zisizokuwa muhimu za kiufundi",
+			"titleonlycomfort": "Kudhibiti mipangilio yako ambayo husimamia vidakuzi visivyokuwa muhimu vya kiufundi",
+			"titleonlymarketing": "Kudhibiti mipangilio yako ambayo husimamia matumizi ya vidakuzi na mbinu za ufuatiliaji zisizokuwa muhimu za kiufundi",
+			"titleuniversal": "Bila kujumuisha kidakuzi ambacho uhifadhi mipangilio yako ya sasa ya faragha (kidakuzi cha uteuzi), kwa mfano, vidakuzi vya kiufundi visivyokuwa vya maana na mbinu za ufuatiliaji ambazo zinaweza kutumiwa kwa malengo ya utangazaji au kuhifadhi mipangilio ya mtumiaji, hutumiwa tu ikiwa umetoa kibali cha mapema cha matumizi hayo. Hapa chini, unaweza kutupatia kibali chako au kuondoa vibali ambavyo umetupatia, kuanzia sasa:",
+			"textall": "Bila kujumuisha kidakuzi ambacho uhifadhi mipangilio yako ya sasa ya faragha (kidakuzi cha uteuzi), kwa mfano, vidakuzi vya kiufundi visivyokuwa vya maana na mbinu za ufuatiliaji ambazo zinaweza kutumiwa kwa malengo ya utangazaji au kuhifadhi mipangilio ya mtumiaji, hutumiwa tu ikiwa umetoa kibali cha mapema cha matumizi hayo. Hapa chini, unaweza kutupatia kibali chako au kuondoa vibali ambavyo umetupatia, kuanzia sasa:",
+			"textonlycomfort": "Bila kujumuisha kidakuzi ambacho uhifadhi mipangilio yako ya sasa ya faragha (kidakuzi cha uteuzi), vidakuzi vya kiufundi visivyokuwa vya maana hufanya kuvinjari kwenye tovuti yetu kuwa rahisi kwa watumiaji (vidakuzi vya urahisi) hutumiwa tu ikiwa umetoa kibali cha mapema cha matumizi hayo. Hapa chini, unaweza kutupatia kibali chako au kuondoa kibali ambacho umetupatia, kuanzia sasa:",
+			"textonlymarketing": "Vidakuzi na mbinu za ufuatiliaji zisizokuwa muhimu za kiufundi ambazo zinatuwezesha kukupa uzoefu wa kipekee wa mtumiaji na ofa zilizogeuzwa kukufaa (vidakuzi vya mauzo na mbinu za ufuatiliaji) hutumiwa tu ikiwa umetoa kibali cha mapema cha matumizi yake. Hapa chini, unaweza kutupatia kibali au uondoe kibali ambacho ulitupatia, kuanzia sasa.",
+			"textuniversal": "Bila kujumuisha kidakuzi ambacho uhifadhi mipangilio yako ya sasa ya faragha (kidakuzi cha uteuzi), kwa mfano, vidakuzi vya kiufundi visivyokuwa vya maana na mbinu za ufuatiliaji ambazo zinaweza kutumiwa kwa malengo ya utangazaji au kuhifadhi mipangilio ya mtumiaji, hutumiwa tu ikiwa umetoa kibali cha mapema cha matumizi hayo. Hapa chini, unaweza kutupatia kibali chako au kuondoa vibali ambavyo umetupatia, kuanzia sasa:"
+		},
+		"noCookies": {
+			"title": "Vidakuzi vimelemazwa katika kivinjari chako",
+			"text": "Hakuna vidakuzi vilivyohifadhiwa katika kivinjari chako. Kwa hivyo, hakuna mipangilio upande wako inayohitajika. Tafadhali kumbuka kwamba hata vidakuzi muhimu vya kiufundi havijawekwa na kazi ya tovuti inaweza kutatizwa."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Starehe",
+		"titleSettings": "Vidakuzi vya starehe",
+		"text": "Bila vidakuzi vya starehe, kazi zingine ambazo huwezesha starehe, urahisi wa kuvinjari kwenye tovuti yetu, kama vile kukumbuka mipangilio yako, haipatikani.",
+		"link": { "label": "Soma zaidi", "ariaLabel": "Maelezo zaidi kuhusu Vidakuzi vya starehe" },
+		"button": { "label": "Kibali cha Vidakuzi vya starehe" }
+	},
+	"marketingCookieDescription": {
+		"title": "Mauzo",
+		"titleSettings": "Vidakuzi vya mauzo na mbinu za ufuatiliaji",
+		"text": "Vidakuzi vya mauzo na mbinu za ufuatiliaji hutuwezesha kukupa uzoefu wa kipekee wa mtumiaji na hata pia ofa zilizogeuzwa kukufaa.",
+		"link": { "label": "Soma zaidi", "ariaLabel": "Maelezo zaidi kuhusu Vidakuzi vya mauzo" },
+		"button": { "label": "Kibali cha Vidakuzi vya mauzo" }
+	},
+	"general": { "closeAriaLabel": "Funga", "acceptAllButtonLabel": "Kubali zote", "universalButtonLabel": "Sawa", "save": "Hifadhi", "reject": "Kataa" },
+	"smallprint": {
+		"title": "Ondoa kibali",
+		"settings": {
+			"text": "Chini ya mipangilio yako ya faragha SETTINGS_LINK, unaweza kuondoa kibali ulichotupatia wakati wowote hapa, kuanzia sasa.",
+			"linkLabel": "\"kiungo\"",
+			"term": "mipangilio ya faragha"
+		},
+		"policy": {
+			"text": "Tafadhali angalia maelezo yetu ya ulinzi wa data kwa maelezo kuhusu suala hili POLICY_LINK.",
+			"linkLabel": "\"kiungo\"",
+			"term": "Ilani ya ulinzi wa data"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (maelezo ya kuchapisha)", "term": "Maelezo ya shirika" },
+		"saveDescription": "Unapobonyeza \"Hifadhi\" vidakuzi ulivyochagua pekee ndivyo hutumika.",
+		"withdrawDescription": "Chini ya SETTINGS_LINK yako, unaweza kuondoa wakati wowote kibali ulichotoa hapa mara moja."
+	}
+}

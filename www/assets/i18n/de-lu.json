@@ -1,0 +1,60 @@
+{
+	"title": { "initialView": "Privatsphäreeinstellungen", "editView": "Hier können Sie Ihre Privatsphäreeinstellungen anpassen" },
+	"description": {
+		"cookies": {
+			"all": "Für die Bereitstellung unserer Angebote werden auf dieser Seite technisch notwendige Cookies gesetzt. Zudem wird ein Cookie gesetzt, welcher den aktuellen Status Ihrer Privatsphäreeinstellung speichert (Auswahl-Cookie).",
+			"all2": "Mit der Ausnahme des Auswahl-Cookie werden technisch nicht notwendige Cookies zur Verbesserung des Benutzungserlebnisses (Comfort Cookies) und individualisierte Angebote (Marketing Cookies und Tracking-Mechanismen) nur eingesetzt, wenn Sie uns vorher hierzu Ihre Einwilligung gegeben haben:",
+			"onlycomfort": "Für die Bereitstellung unserer Angebote werden auf dieser Seite technisch notwendige Cookies gesetzt. Zudem wird ein Cookie gesetzt, welcher den aktuellen Status Ihrer Privatsphäreeinstellung speichert (Auswahl-Cookie).",
+			"onlycomfort2": "Mit der Ausnahme des Auswahl-Cookie werden technisch nicht notwendige Cookies zur Verbesserung des Benutzungserlebnisses (Comfort Cookies) nur eingesetzt, wenn Sie uns vorher hierzu Ihre Einwilligung gegeben haben.",
+			"onlymarketing": "Für die Bereitstellung unserer Angebote werden auf dieser Seite technisch notwendige Cookies gesetzt. Zudem wird ein Cookie gesetzt, welcher den aktuellen Status Ihrer Privatsphäreeinstellung speichert (Auswahl-Cookie).",
+			"onlymarketing2": "Mit der Ausnahme des Auswahl-Cookie werden technisch nicht notwendige Cookies für individualisierte Angebote (Marketing Cookies und Tracking-Mechanismen) nur eingesetzt, wenn Sie uns vorher hierzu Ihre Einwilligung gegeben haben:",
+			"universal": "Für die Bereitstellung unserer Angebote werden auf dieser Seite technisch notwendige Cookies gesetzt. Zudem wird ein Cookie gesetzt, welcher den aktuellen Status Ihrer Privatsphäreeinstellung speichert (Auswahl-Cookie).",
+			"universal2": "Mit der Ausnahme des Auswahl-Cookie werden technisch nicht notwendige Cookies für individualisierte Angebote (Marketing Cookies und Tracking-Mechanismen) nur eingesetzt, wenn Sie uns vorher hierzu Ihre Einwilligung gegeben haben:"
+		},
+		"deactivate": {
+			"title": "Ausschalten sämtlicher Cookies",
+			"text": "Wenn Sie sämtliche Cookies ausschalten möchten, dann gehen Sie bitte in Ihre Browser-Einstellungen und deaktivieren das Setzen von Cookies. Bitte beachten Sie, dass hierdurch die Funktionalität der Webseite beeinträchtigt werden kann."
+		},
+		"settings": {
+			"titleall": "Verwaltung Ihrer Einstellungen bezüglich technisch nicht notwendiger Cookies und Tracking-Mechanismen",
+			"titleonlycomfort": "Verwaltung Ihrer Einstellungen bezüglich technisch nicht notwendiger Cookies",
+			"titleonlymarketing": "Verwaltung Ihrer Einstellungen bezüglich technisch nicht notwendiger Cookies und Tracking-Mechanismen",
+			"titleuniversal": "Mit der Ausnahme des Auswahl-Cookie werden technisch nicht notwendige Cookies zur Verbesserung des Benutzungserlebnisses (Comfort Cookies) und individualisierte Angebote (Marketing Cookies und Tracking-Mechanismen) nur eingesetzt, wenn Sie uns vorher hierzu Ihre Einwilligung gegeben haben. Nachfolgend können Sie uns Ihre Einwilligung erteilen oder erteilte Einwilligungen mit Wirkung für die Zukunft widerrufen.",
+			"textall": "Mit der Ausnahme des Auswahl-Cookie werden technisch nicht notwendige Cookies zur Verbesserung des Benutzungserlebnisses (Comfort Cookies) und individualisierte Angebote (Marketing Cookies und Tracking-Mechanismen) nur eingesetzt, wenn Sie uns vorher hierzu Ihre Einwilligung gegeben haben. Nachfolgend können Sie uns Ihre Einwilligung erteilen oder erteilte Einwilligungen mit Wirkung für die Zukunft widerrufen:",
+			"textonlycomfort": "Mit der Ausnahme des Auswahl-Cookies werden technisch nicht notwendige Cookies zur Verbesserung des Benutzungserlebnisses (Comfort Cookies) und individualisierte Angebote (Marketing Cookies und Tracking-Mechanismen) nur eingesetzt, wenn Sie uns vorher hierzu Ihre Einwilligung gegeben haben. Nachfolgend können Sie uns Ihre Einwilligung erteilen oder erteilte Einwilligungen mit Wirkung für die Zukunft widerrufen.",
+			"textonlymarketing": "Mit der Ausnahme des Auswahl-Cookie werden technisch nicht notwendige Cookies zur Verbesserung des Benutzungserlebnisses (Comfort Cookies) und individualisierte Angebote (Marketing Cookies und Tracking-Mechanismen) nur eingesetzt, wenn Sie uns vorher hierzu Ihre Einwilligung gegeben haben. Nachfolgend können Sie uns Ihre Einwilligung erteilen oder erteilte Einwilligungen mit Wirkung für die Zukunft widerrufen.",
+			"textuniversal": "Mit der Ausnahme des Auswahl-Cookie werden technisch nicht notwendige Cookies zur Verbesserung des Benutzungserlebnisses (Comfort Cookies) und individualisierte Angebote (Marketing Cookies und Tracking-Mechanismen) nur eingesetzt, wenn Sie uns vorher hierzu Ihre Einwilligung gegeben haben. Nachfolgend können Sie uns Ihre Einwilligung erteilen oder erteilte Einwilligungen mit Wirkung für die Zukunft widerrufen."
+		},
+		"noCookies": {
+			"title": "Cookies sind in Ihrem Browser deaktiviert",
+			"text": "In Ihrem Browser sind keine Cookies gespeichert. Daher sind Ihrerseits keine Einstellungen notwendig. Bitte beachten Sie, dass sogar die technisch erforderlichen Cookies nicht gesetzt wurden und die Funktion der Website eingeschränkt sein kann."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Komfort",
+		"titleSettings": "Komfort-Cookies",
+		"text": "Ohne diese Cookies stehen Funktionen, die ein komfortables Surfen auf unserer Webseite ermöglichen, wie z.B. das Merken von Einstellungen, nicht zur Verfügung.",
+		"link": { "label": "Mehr Informationen", "ariaLabel": "Weitere Informationen über Marketing Cookies" },
+		"button": { "label": "Komfort zustimmen" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketing",
+		"titleSettings": "Marketing-Cookies und Tracking-Mechanismen",
+		"text": "Diese Cookies und Tracking-Mechanismen ermöglichen uns, Ihnen ein besseres Nutzungserlebnis und individuelle Angebote zu bieten.",
+		"link": { "label": "Mehr Informationen", "ariaLabel": "Weitere Informationen über Marketing Cookies" },
+		"button": { "label": "Marketing zustimmen" }
+	},
+	"general": { "closeAriaLabel": "Schließen", "acceptAllButtonLabel": "Alle akzeptieren", "universalButtonLabel": "OK", "save": "Speichern", "reject": "Ablehnen" },
+	"smallprint": {
+		"title": "Widerruf",
+		"saveDescription": "Wenn Sie auf „Speichern“ klicken, werden ausschließlich die von Ihnen ausgewählten Cookies eingesetzt.",
+		"withdrawDescription": "Sie können Ihre hier erteilte Einwilligung jederzeit mit Wirkung für die Zukunft unter SETTINGS_LINK widerrufen.",
+		"settings": {
+			"text": "Sie können Ihre hier erteilte Einwilligung jederzeit mit Wirkung für die Zukunft unter Privatsphäreeinstellungen SETTINGS_LINK widerrufen.",
+			"linkLabel": "link",
+			"term": "Privatsphäreeinstellungen"
+		},
+		"policy": { "text": "Nähere Informationen entnehmen Sie bitte unseren Datenschutzhinweisen POLICY_LINK.", "linkLabel": "link", "term": "Datenschutzhinweise" },
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum", "term": "Impressum" }
+	}
+}

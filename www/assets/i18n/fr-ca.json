@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Paramètres de confidentialité", "editView": "Vous pouvez modifier vos paramètres de confidentialité ici." },
+	"description": {
+		"cookies": {
+			"all": "Des fichiers témoins, dont la présence est essentielle pour des raisons techniques, sont associés à cette page Web afin que nous puissions présenter des offres aux utilisateurs. Un fichier témoin qui enregistre vos paramètres de confidentialité est également créé (fichier témoin de sélection).",
+			"all2": "À l'exception du fichier témoin qui sert à enregistrer vos paramètres de confidentialité (fichier témoin de sélection), les fichiers témoins et les mécanismes de suivi techniquement non essentiels qui peuvent être utilisés à des fins de commercialisation ou qui peuvent servir à enregistrer les paramètres utilisateur ne sont utilisés que si vous avez donné votre consentement préalable.",
+			"onlycomfort": "Des fichiers témoins, dont la présence est essentielle pour des raisons techniques, sont associés à cette page Web afin que nous puissions présenter des offres aux utilisateurs. Un fichier témoin qui enregistre vos paramètres de confidentialité est également créé (fichier témoin de sélection).",
+			"onlycomfort2": "À l'exception du fichier témoin de sélection mentionné ci-dessus, les fichiers témoins techniquement non essentiels qui rendent la navigation sur notre site Web plus confortable, plus pratique et plus conviviale (les fichiers témoins de confort) ne sont utilisés que si vous avez donné votre consentement préalable.",
+			"onlymarketing": "Des fichiers témoins, dont la présence est essentielle pour des raisons techniques, sont associés à cette page Web afin que nous puissions présenter des offres aux utilisateurs. Un fichier témoin qui enregistre vos paramètres de confidentialité est également créé (fichier témoin de sélection).",
+			"onlymarketing2": "Les fichiers témoins et les mécanismes de suivi techniquement non essentiels qui nous permettent de vous offrir une expérience utilisateur de grande qualité et de vous présenter des offres personnalisées (fichiers témoins de commercialisation et mécanismes de suivi) ne sont utilisés que si vous avez donné votre consentement préalable :",
+			"universal": "Des fichiers témoins, dont la présence est essentielle pour des raisons techniques, sont associés à cette page Web afin que nous puissions présenter des offres aux utilisateurs. Un fichier témoin qui enregistre vos paramètres de confidentialité est également créé (fichier témoin de sélection).",
+			"universal2": "À l'exception du fichier témoin de sélection mentionné précédemment, les fichiers témoins et les mécanismes de suivi techniquement non essentiels qui servent, par exemple, à enregistrer les paramètres utilisateur ou qui sont utilisés à des fins de commercialisation ne sont utilisés que si vous avez donné votre consentement préalable :"
+		},
+		"deactivate": {
+			"title": "Désactiver tous les fichiers témoins",
+			"text": "Si vous souhaitez désactiver tous les fichiers témoins, accédez aux paramètres de votre navigateur et désactivez-les. Veuillez noter que cela pourrait nuire à la fonctionnalité du site Web."
+		},
+		"settings": {
+			"titleall": "Gérer vos paramètres régissant l'utilisation de fichiers témoins et de mécanismes de suivi techniquement non essentiels",
+			"titleonlycomfort": "Gérer vos paramètres régissant l'utilisation de fichiers témoins techniquement non essentiels",
+			"titleonlymarketing": "Gérer vos paramètres régissant l'utilisation de fichiers témoins et de mécanismes de suivi techniquement non essentiels",
+			"titleuniversal": "À l'exception du fichier témoin qui sert à enregistrer vos paramètres de confidentialité (fichier témoin de sélection), les fichiers témoins et les mécanismes de suivi techniquement non essentiels qui peuvent être utilisés à des fins de commercialisation ou qui peuvent servir à enregistrer les paramètres utilisateur ne sont utilisés que si vous avez donné votre consentement préalable. Vous pouvez ci-dessous nous accorder votre consentement ou retirer les consentements que vous nous avez accordés. Votre choix prendra effet immédiatement :",
+			"textall": "À l'exception du fichier témoin qui sert à enregistrer vos paramètres de confidentialité (fichier témoin de sélection), les fichiers témoins et les mécanismes de suivi techniquement non essentiels qui peuvent être utilisés à des fins de commercialisation ou qui peuvent servir à enregistrer les paramètres utilisateur ne sont utilisés que si vous avez donné votre consentement préalable. Vous pouvez ci-dessous nous accorder votre consentement ou retirer les consentements que vous nous avez accordés. Votre choix prendra effet immédiatement :",
+			"textonlycomfort": "À l'exception du fichier témoin qui sert à enregistrer vos paramètres de confidentialité (fichier témoin de sélection), les fichiers témoins techniquement non essentiels qui rendent la navigation sur notre site Web plus confortable, plus pratique et plus conviviale (les fichiers témoins de confort) ne sont utilisés que si vous avez donné votre consentement préalable. Vous pouvez ci-dessous nous accorder votre consentement ou retirer le consentement que vous nous avez accordé. Votre choix prendra effet immédiatement :",
+			"textonlymarketing": "Les fichiers témoins et les mécanismes de suivi techniquement non essentiels qui nous permettent de vous offrir une expérience utilisateur de grande qualité et de vous présenter des offres personnalisées (fichiers témoins de commercialisation et mécanismes de suivi) ne sont utilisés que si vous avez donné votre consentement préalable. Vous pouvez ci-dessous nous accorder votre consentement ou retirer le consentement que vous nous avez accordé. Votre choix prendra effet immédiatement.",
+			"textuniversal": "À l'exception du fichier témoin qui sert à enregistrer vos paramètres de confidentialité (fichier témoin de sélection), les fichiers témoins et les mécanismes de suivi techniquement non essentiels qui peuvent être utilisés à des fins de commercialisation ou qui peuvent servir à enregistrer les paramètres utilisateur ne sont utilisés que si vous avez donné votre consentement préalable. Vous pouvez ci-dessous nous accorder votre consentement ou retirer les consentements que vous nous avez accordés. Votre choix prendra effet immédiatement :"
+		},
+		"noCookies": {
+			"title": "Les fichiers témoins sont désactivés dans votre navigateur",
+			"text": "Il n'y a aucun fichier témoin enregistré dans votre navigateur. Vous n'avez donc pas à régler vos paramètres. Veuillez noter que même les fichiers témoins techniquement essentiels ne sont pas activés, ce qui peut nuire au fonctionnement du site Web."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Confort",
+		"titleSettings": "Fichiers témoins de confort",
+		"text": "Sans les fichiers témoins de confort, certaines fonctions qui permettent une navigation confortable, pratique et conviviale sur notre site Web, telles que la consultation de vos paramètres, sont désactivées.",
+		"link": { "label": "Pour en savoir davantage", "ariaLabel": "Plus d'information sur les fichiers témoins de confort" },
+		"button": { "label": "Accepter les fichiers témoins de confort" }
+	},
+	"marketingCookieDescription": {
+		"title": "Commercialisation",
+		"titleSettings": "Fichiers témoins de commercialisation et mécanismes de suivi",
+		"text": "Les fichiers témoins de commercialisation et les mécanismes de suivi nous permettent de vous offrir une expérience utilisateur de grande qualité et de vous présenter des offres personnalisées.",
+		"link": { "label": "Pour en savoir davantage", "ariaLabel": "Plus d'information sur les fichiers témoins de commercialisation" },
+		"button": { "label": "Accepter les fichiers témoins de commercialisation" }
+	},
+	"general": { "closeAriaLabel": "Fermer", "acceptAllButtonLabel": "Accepter tout", "universalButtonLabel": "OK", "save": "Enregistrer", "reject": "Rejeter" },
+	"smallprint": {
+		"title": "Retrait du consentement",
+		"settings": {
+			"text": "Dans vos paramètres de confidentialité SETTINGS_LINK, vous pouvez à tout moment retirer le consentement que vous nous avez accordé ici. Votre choix prendra effet immédiatement.",
+			"linkLabel": "lien",
+			"term": "paramètres de confidentialité"
+		},
+		"policy": {
+			"text": "Veuillez consulter nos renseignements sur la protection des données pour plus de détails à ce sujet POLICY_LINK.",
+			"linkLabel": "lien",
+			"term": "Avis de protection des données"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (renseignements sur la publication)", "term": "Renseignements sur la société" },
+		"saveDescription": "Lorsque vous cliquez sur « Enregistrer », seuls les témoins que vous avez sélectionnés seront utilisés.",
+		"withdrawDescription": "Dans vos paramètres SETTINGS_LINK, vous pouvez à tout moment retirer le consentement que vous nous avez accordé ici. Ce retrait prendra effet immédiatement."
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"title": { "initialView": "Tietosuoja-asetukset", "editView": "Voit muokata tietosuoja-asetuksiasi tässä." },
+	"description": {
+		"cookies": {
+			"all": "Tällä verkkosivulla käytetään teknisistä syistä välttämättömiä evästeitä, jotta voimme tarjota käyttäjille tarjouksiamme. Tallennamme myös evästeen, joka tallentaa nykyiset yksityisyysasetuksesi (valintoja koskeva eväste).",
+			"all2": "Tekniseltä kannalta tarpeettomia evästeitä tai seurantamekanismeja, jotka palvelevat vain markkinointia tai tallentavat esimerkiksi käyttäjäasetukset (lukuun ottamatta evästettä, joka tallentaa nykyiset yksityisyysasetuksesi eli ns. valintoja koskevaa evästettä), käytetään vain siinä tapauksessa, että hyväksyt niiden käytön:",
+			"onlycomfort": "Tällä verkkosivulla käytetään teknisistä syistä välttämättömiä evästeitä, jotta voimme tarjota käyttäjille tarjouksiamme. Tallennamme myös evästeen, joka tallentaa nykyiset yksityisyysasetuksesi (valintoja koskeva eväste).",
+			"onlycomfort2": "Tekniseltä kannalta tarpeettomia evästeitä, jotka tekevät sivustomme käytön sujuvammaksi, miellyttävämmäksi ja käyttäjäystävällisemmäksi (mukavuusevästeet) käytetään vain siinä tapauksessa, että hyväksyt niiden käytön (lukuun ottamatta evästettä, joka tallentaa nykyiset yksityisyysasetuksesi eli ns. valintoja koskevaa evästettä).",
+			"onlymarketing": "Tällä verkkosivulla käytetään teknisistä syistä välttämättömiä evästeitä, jotta voimme tarjota käyttäjille tarjouksiamme. Tallennamme myös evästeen, joka tallentaa nykyiset yksityisyysasetuksesi (valintoja koskeva eväste).",
+			"onlymarketing2": "Tekniseltä kannalta tarpeettomia evästeitä tai seurantamekanismeja, jotka luovat ensiluokkaisen käyttökokemuksen ja tarjoavat mukautettuja tarjouksia (markkinointievästeet ja seurantamekanismit), käytetään vain siinä tapauksessa, että hyväksyt niiden käytön:",
+			"universal": "Tällä verkkosivulla käytetään teknisistä syistä välttämättömiä evästeitä, jotta voimme tarjota käyttäjille tarjouksiamme. Tallennamme myös evästeen, joka tallentaa nykyiset yksityisyysasetuksesi (valintoja koskeva eväste).",
+			"universal2": "Tekniseltä kannalta tarpeettomia evästeitä tai seurantamekanismeja, jotka palvelevat vain markkinointia tai tallentavat esimerkiksi käyttäjäasetukset (lukuun ottamatta edellä mainittua evästettä), käytetään vain siinä tapauksessa, että hyväksyt niiden käytön:"
+		},
+		"deactivate": {
+			"title": "Poista käytöstä kaikki evästeet",
+			"text": "Jos haluat poistaa käytöstä kaikki evästeet, avaa selainasetukset ja poista evästeiden asettamisen käytöstä. Huomaa, että tämä voi vaikuttaa sivuston toimintaan."
+		},
+		"settings": {
+			"titleall": "Asetusten hallinta, joka koskee tekniseltä kannalta tarpeettomien evästeiden ja seurantamekanismien käyttöä",
+			"titleonlycomfort": "Asetusten hallinta, joka koskee tekniseltä kannalta tarpeettomien evästeiden käyttöä",
+			"titleonlymarketing": "Asetusten hallinta, joka koskee tekniseltä kannalta tarpeettomien evästeiden ja seurantamekanismien käyttöä",
+			"titleuniversal": "Tekniseltä kannalta tarpeettomia evästeitä tai seurantamekanismeja, jotka palvelevat vain markkinointia tai tallentavat esimerkiksi käyttäjäasetukset (lukuun ottamatta evästettä, joka tallentaa nykyiset yksityisyysasetuksesi eli ns. valintoja koskevaa evästettä), käytetään vain siinä tapauksessa, että hyväksyt niiden käytön. Seuraavassa voit myöntää tai evätä meitä koskevan luvan. Muutos tulee voimaan välittömästi:",
+			"textall": "Tekniseltä kannalta tarpeettomia evästeitä tai seurantamekanismeja, jotka palvelevat vain markkinointia tai tallentavat esimerkiksi käyttäjäasetukset (lukuun ottamatta evästettä, joka tallentaa nykyiset yksityisyysasetuksesi eli ns. valintoja koskevaa evästettä), käytetään vain siinä tapauksessa, että hyväksyt niiden käytön. Seuraavassa voit myöntää tai evätä meitä koskevan luvan. Muutos tulee voimaan välittömästi:",
+			"textonlycomfort": "Tekniseltä kannalta tarpeettomia evästeitä, jotka tekevät sivustomme käytön sujuvammaksi, miellyttävämmäksi ja käyttäjäystävällisemmäksi (mukavuusevästeet) käytetään vain siinä tapauksessa, että hyväksyt niiden käytön (lukuun ottamatta evästettä, joka tallentaa nykyiset yksityisyysasetuksesi eli ns. valintoja koskevaa evästettä). Alla voit myöntää tai evätä meitä koskevan luvan. Muutos tulee voimaan välittömästi:",
+			"textonlymarketing": "Tekniseltä kannalta tarpeettomia evästeitä tai seurantamekanismeja, jotka luovat ensiluokkaisen käyttökokemuksen ja tarjoavat mukautettuja tarjouksia (markkinointievästeet ja seurantamekanismit), käytetään vain siinä tapauksessa, että hyväksyt niiden käytön. Alla voit myöntää tai evätä meitä koskevan luvan. Muutos tulee voimaan välittömästi.",
+			"textuniversal": "Tekniseltä kannalta tarpeettomia evästeitä tai seurantamekanismeja, jotka palvelevat vain markkinointia tai tallentavat esimerkiksi käyttäjäasetukset (lukuun ottamatta evästettä, joka tallentaa nykyiset yksityisyysasetuksesi eli ns. valintoja koskevaa evästettä), käytetään vain siinä tapauksessa, että hyväksyt niiden käytön. Seuraavassa voit myöntää tai evätä meitä koskevan luvan. Muutos tulee voimaan välittömästi:"
+		},
+		"noCookies": {
+			"title": "Evästeet on poistettu käytöstä selaimessasi",
+			"text": "Selaimesi ei tallenna mitään evästeitä. Sinun ei tarvitse muuttaa mitään asetuksia. Huomaa, että tekniseltä kannalta välttämättömiäkään evästeitä ei luoda ja sivuston käyttö saattaa vaikeutua."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Mukavuus",
+		"titleSettings": "Mukavuusevästeet",
+		"text": "Ilman mukavuusevästeitä tietyt toiminnot, jotka tekevät sivustomme käytön sujuvammaksi, miellyttävämmäksi ja käyttäjäystävällisemmäksi esimerkiksi huomioimalla asetuksesi, eivät ole käytettävissä.",
+		"link": { "label": "Lisätietoja", "ariaLabel": "Lisätietoja mukavuusevästeistä" },
+		"button": { "label": "Mukavuusevästeiden hyväksyntä" }
+	},
+	"marketingCookieDescription": {
+		"title": "Markkinointi",
+		"titleSettings": "Markkinointievästeet ja seurantamekanismit",
+		"text": "Markkinointievästeiden ja seurantamekanismien avulla voimme tarjota ensiluokkaisen käyttökokemuksen ja mukautettuja tarjouksia.",
+		"link": { "label": "Lisätietoja", "ariaLabel": "Lisätietoja markkinointievästeistä" },
+		"button": { "label": "Markkinointievästeiden hyväksyntä" }
+	},
+	"general": { "closeAriaLabel": "Sulje", "acceptAllButtonLabel": "Hyväksy kaikki", "universalButtonLabel": "OK", "save": "Tallenna", "reject": "Hylkää" },
+	"smallprint": {
+		"title": "Hyväksynnän peruuttaminen",
+		"settings": {
+			"text": "Tietosuoja-asetuksissa SETTINGS_LINK voit milloin tahansa peruuttaa hyväksyntäsi, jonka olet antanut tässä. Muutos tulee voimaan välittömästi.",
+			"linkLabel": "linkki",
+			"term": "tietosuoja-asetukset"
+		},
+		"policy": { "text": "Tutustumalla tietosuojatietoihimme saat lisätietoja POLICY_LINK.", "linkLabel": "linkki", "term": "Tietosuojatiedote" },
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (julkaisutiedot)", "term": "Julkaisutiedot" },
+		"saveDescription": "Jos valitset ”Tallenna”, ainoastaan valitut evästeet otetaan käyttöön.",
+		"withdrawDescription": "Kohdassa SETTINGS_LINK voit milloin tahansa peruuttaa hyväksyntäsi, jonka olet antanut tässä. Muutos tulee voimaan välittömästi."
+	}
+}

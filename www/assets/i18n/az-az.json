@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Məxfilik Parametrləri", "editView": "Məxfilik parametrlərinizi buradan tənzimləyə bilərsiniz." },
+	"description": {
+		"cookies": {
+			"all": "Texniki səbəblər üçün zəruri olan kukilər bu veb-səhifədə quraşdırılıb, beləliklə, istifadəçilərə təkliflərimizi təqdim edə bilərik. Cari məxfilik parametrlərinizi saxlayan kuki də quraşdırılıb (seçim kukisi).",
+			"all2": "Cari məxfilik parametrlərinizi (seçim kukisi) saxlayan kuki istisna olmaqla, texniki cəhətdən qeyri-zəruri kukilər və məsələn, marketinq məqsədləri və ya istifadəçinin parametrlərini saxlamaq üçün istifadə edilə bilən izləmə mexanizmləri, yalnız belə bir istifadəyə əvvəlcədən razılıq verdiyiniz halda istifadə edilir:",
+			"onlycomfort": "Texniki səbəblər üçün zəruri olan kukilər bu veb-səhifədə quraşdırılıb, beləliklə, istifadəçilərə təkliflərimizi təqdim edə bilərik. Cari məxfilik parametrlərinizi saxlayan kuki də quraşdırılıb (seçim kukisi).",
+			"onlycomfort2": "Yuxarıda qeyd olunan seçim kukisi istisna olmaqla, veb-saytda vaxt keçirməyi daha asan, rahat və istifadəçi üçün əlverişli edən (rahat kukilər) texniki cəhətdən qeyri-zəruri kukilər, yalnız belə bir istifadəyə əvvəlcədən razılıq verdiyiniz halda istifadə edilir.",
+			"onlymarketing": "Texniki səbəblər üçün zəruri olan kukilər bu veb-səhifədə quraşdırılıb, beləliklə, istifadəçilərə təkliflərimizi təqdim edə bilərik. Cari məxfilik parametrlərinizi saxlayan kuki də quraşdırılıb (seçim kukisi).",
+			"onlymarketing2": "Texniki olaraq, qeyri-zəruri kukilər və sizi mükəmməl istifadəçi təcrübəsi və fərdiləşdirilmiş təkliflər (marketinq kukiləri və izləmə mexanizmləri) ilə təmin etməyimizə imkan yaradan izləmə mexanizmləri sizə yalnız belə istifadə üçün əvvəlcədən razılıq verildiyi halda istifadə edilə bilər:",
+			"universal": "Texniki səbəblər üçün zəruri olan kukilər bu veb-səhifədə quraşdırılıb, beləliklə, istifadəçilərə təkliflərimizi təqdim edə bilərik. Cari məxfilik parametrlərinizi saxlayan kuki də quraşdırılıb (seçim kukisi).",
+			"universal2": "Yuxarıda qeyd olunan seçim kukisi istisna olmaqla, texniki cəhətdən qeyri-zəruri kukilər və məsələn, istifadəçinin parametrlərini saxlamağa və ya marketinq məqsədlərinə xidmət edən izləmə mexanizmləri, yalnız belə bir istifadəyə əvvəlcədən razılıq verdiyiniz halda istifadə edilir:"
+		},
+		"deactivate": {
+			"title": "Bütün kukiləri qeyri-aktiv edin",
+			"text": "Əgər bütün kukiləri qeyri-aktiv etmək istəyirsinizsə, brauzer parametrlərinizə keçin və kukilərin parametrini qeyri-aktiv edin. Nəzərə alın ki, bu, veb-saytın funksionallığına mane ola bilər."
+		},
+		"settings": {
+			"titleall": "Texniki qeyri-zəruri kukilər və izləmə mexanizmlərinin istifadəsini tənzimləyən parametrlərinizin idarə edilməsi",
+			"titleonlycomfort": "Texniki qeyri-zəruri kukilərin istifadəsini tənzimləyən parametrlərinizin idarə edilməsi",
+			"titleonlymarketing": "Texniki qeyri-zəruri kukilər və izləmə mexanizmlərinin istifadəsini tənzimləyən parametrlərinizin idarə edilməsi",
+			"titleuniversal": "Cari məxfilik parametrlərinizi (seçim kukisi) saxlayan kuki istisna olmaqla, texniki cəhətdən qeyri-zəruri kukilər və məsələn, marketinq məqsədləri və ya istifadəçinin parametrlərini saxlamaq üçün istifadə edilə bilən izləmə mexanizmləri, yalnız belə bir istifadəyə əvvəlcədən razılıq verdiyiniz halda istifadə edilir. Aşağıda, dərhal effektiv şəkildə bizə razılıq verə və ya bizə verdiyiniz razılıqları ləğv edə bilərsiniz:",
+			"textall": "Cari məxfilik parametrlərinizi (seçim kukisi) saxlayan kuki istisna olmaqla, texniki cəhətdən qeyri-zəruri kukilər və məsələn, marketinq məqsədləri və ya istifadəçinin parametrlərini saxlamaq üçün istifadə edilə bilən izləmə mexanizmləri, yalnız belə bir istifadəyə əvvəlcədən razılıq verdiyiniz halda istifadə edilir. Aşağıda, dərhal effektiv şəkildə bizə razılıq verə və ya bizə verdiyiniz razılıqları ləğv edə bilərsiniz:",
+			"textonlycomfort": "Cari məxfilik parametrlərinizi (seçim kukisi) saxlayan kuki istisna olmaqla, veb-saytda vaxt keçirməyi daha asan, rahat və istifadəçi üçün əlverişli edən (rahat kukilər) texniki cəhətdən qeyri-zəruri kukilər, yalnız belə bir istifadəyə əvvəlcədən razılıq verdiyiniz halda istifadə edilir. Aşağıda, dərhal effektiv şəkildə bizə razılıq verə və ya bizə verdiyiniz razılıqları ləğv edə bilərsiniz:",
+			"textonlymarketing": "Texniki olaraq, qeyri-zəruri kukilər və sizi mükəmməl istifadəçi təcrübəsi və fərdiləşdirilmiş təkliflər (marketinq kukiləri və izləmə mexanizmləri) ilə təmin etməyimizə imkan yaradan izləmə mexanizmləri sizə yalnız belə istifadə üçün əvvəlcədən razılıq verildiyi halda istifadə edilə bilər. Aşağıda bizə razılığınızı verə və ya bizə verdiyiniz dərhal qüvvəyə minən razılıqdan imtina edə bilərsiniz.",
+			"textuniversal": "Cari məxfilik parametrlərinizi (seçim kukisi) saxlayan kuki istisna olmaqla, texniki cəhətdən qeyri-zəruri kukilər və məsələn, marketinq məqsədləri və ya istifadəçinin parametrlərini saxlamaq üçün istifadə edilə bilən izləmə mexanizmləri, yalnız belə bir istifadəyə əvvəlcədən razılıq verdiyiniz halda istifadə edilir. Aşağıda, dərhal effektiv şəkildə bizə razılıq verə və ya bizə verdiyiniz razılıqları ləğv edə bilərsiniz:"
+		},
+		"noCookies": {
+			"title": "Kukilər brauzerinizdə qeyri-aktiv edilib",
+			"text": "Brauzerinizdə heç bir kuki saxlanmayıb. Ona görə də sizin tərəfdə heç bir parametr zəruri deyil. Nəzərə alın ki, hətta texniki baxımdan zəruri olan kukilər təyin edilməyib və veb-saytın funksiyası zəifləyə bilər."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Komfort",
+		"titleSettings": "Komfort kukiləri",
+		"text": "Komfort kukiləri olmadan, veb-saytımızda parametrlərinizin qeyd edilməsi kimi rahat və istifadəçiyə uyğun axtarışı asanlaşdıran müəyyən funksiyaları qeyri-mümkün edir.",
+		"link": { "label": "Ətraflı oxuyun", "ariaLabel": "Komfort kukiləri haqqında ətraflı məlumat" },
+		"button": { "label": "Komfort kukilərə razılaşın" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketinq",
+		"titleSettings": "Marketinq kukiləri və izləmə mexanizmləri",
+		"text": "Marketinq kukiləri və izləmə mexanizmləri sizi mükəmməl istifadəçi təcrübəsi, həmçinin fərdiləşdirilmiş təkliflər ilə təmin etməyimizə imkan yaradır.",
+		"link": { "label": "Ətraflı oxuyun", "ariaLabel": "Marketinq kukiləri haqqında ətraflı məlumat" },
+		"button": { "label": "Marketinq kukilərinə razılaşın" }
+	},
+	"general": { "closeAriaLabel": "Bağla", "acceptAllButtonLabel": "Hamısını qəbul edin", "universalButtonLabel": "OK", "save": "Saxla", "reject": "İmtina edin" },
+	"smallprint": {
+		"title": "Razılaşmadan imtina",
+		"settings": {
+			"text": "SETTINGS_LINK məxfilik parametrlərinizə əsasən siz burada verdiyiniz dərhal qüvvəyə minən razılaşmadan istənilən vaxt imtina edə bilərsiniz.",
+			"linkLabel": "keçid",
+			"term": "məxfilik parametrləri"
+		},
+		"policy": {
+			"text": "POLICY_LINK ilə əlaqədar təfərrüatlar üçün verilənlərin qorunması haqqında məlumatımıza baxın.",
+			"linkLabel": "keçid",
+			"term": "Verilənlərin qorunması bildirişi"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Hüquqi Bildiriş (məlumatın dərc olunması)", "term": "Korporativ məlumat" },
+		"saveDescription": "\"Saxla\" seçimini basdıqda, ancaq seçdiyiniz kukilər istifadə olunacaq.",
+		"withdrawDescription": "İstənilən vaxt SETTINGS_LINK bölməsinə daxil olaraq razılığınızı ləğv edə bilərsiniz, bu zaman ləğv dərhal qüvvəyə minəcək."
+	}
+}

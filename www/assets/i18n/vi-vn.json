@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Cài đặt quyền riêng tư", "editView": "Bạn có thể điều chỉnh cài đặt quyền riêng tư tại đây." },
+	"description": {
+		"cookies": {
+			"all": "Những cookie cần thiết về mặt do kỹ thuật trên trang web này giúp chúng tôi cung cấp những ưu đãi cho người dùng. Cookie lưu trữ cài đặt quyền riêng tư hiện tại cũng đã được cài đặt sẵn (cookie mặc định).",
+			"all2": "Ngoại trừ cookie mặc định được đề cập ở trên, các cookie kỹ thuật và cơ chế theo dõi không cần thiết nhằm mang đến trải nghiệm mới và ưu đãi tùy chỉnh (cookie và cơ chế hiển thị quảng cáo) sẽ chỉ được sử dụng khi có sự chấp thuận của bạn:",
+			"onlycomfort": "Vì lý do kỹ thuật, cookie là phần thiết yếu được thiết lập trên trang web này để chúng tôi có thể cung cấp cho người dùng các đề xuất của mình.  Cookie lưu trữ cài đặt quyền riêng tư hiện tại của bạn cũng được thiết lập (cookie lựa chọn).",
+			"onlycomfort2": "Với ngoại lệ về cookie lựa chọn nêu trên, các cookie không thiết yếu về mặt kỹ thuật giúp cho việc lướt web trở nên thoải mái, tiện lợi và thân thiện hơn (cookie tiện lợi) chỉ được sử dụng nếu bạn đưa ra chấp thuận trước cho việc sử dụng như vậy.",
+			"onlymarketing": "Vì lý do kỹ thuật, cookie là phần thiết yếu được thiết lập trên trang web này để chúng tôi có thể cung cấp cho người dùng các đề xuất của mình.  Cookie lưu trữ cài đặt quyền riêng tư hiện tại của bạn cũng được thiết lập (cookie lựa chọn).",
+			"onlymarketing2": "Các cookie và cơ chế theo dõi không thiết yếu về mặt kỹ thuật cho phép chúng tôi cung cấp cho bạn trải nghiệm người dùng cao cấp và đề xuất tùy chỉnh (cookie và cơ chế theo dõi tiếp thị) chỉ được sử dụng nếu bạn đưa ra chấp thuận trước cho việc sử dụng như vậy:",
+			"universal": "Vì lý do kỹ thuật, cookie là phần thiết yếu được thiết lập trên trang web này để chúng tôi có thể cung cấp cho người dùng các đề xuất của mình.  Cookie lưu trữ cài đặt quyền riêng tư hiện tại của bạn cũng được thiết lập (cookie lựa chọn).",
+			"universal2": "Với ngoại lệ về cookie lựa chọn nêu trên, các cookie không thiết yếu về mặt kỹ thuật và cơ chế theo dõi đóng vai trò ví dụ: lưu cài đặt người dùng hoặc cho mục đích tiếp thị chỉ được sử dụng nếu bạn đã đưa ra chấp thuận trước về việc sử dụng như vậy:"
+		},
+		"deactivate": {
+			"title": "Vô hiệu hóa tất cả cookie",
+			"text": "Nếu bạn muốn vô hiệu hóa tất cả cookie, vui lòng truy cập cài đặt trình duyệt và hủy kích hoạt cài đặt cookie. Lưu ý rằng điều này có thể làm giảm hiệu quả của trang web."
+		},
+		"settings": {
+			"titleall": "Quản lý cài đặt việc sử dụng cookie và cơ chế theo dõi kỹ thuật không cần thiết",
+			"titleonlycomfort": "Quản lý cài đặt điều chỉnh việc sử dụng các cookie không thiết yếu về mặt kỹ thuật",
+			"titleonlymarketing": "Quản lý cài đặt điều chỉnh việc sử dụng các cookie và cơ chế theo dõi không thiết yếu về mặt kỹ thuật",
+			"titleuniversal": "Với ngoại lệ về cookie lưu trữ cài đặt quyền riêng tư hiện tại của bạn (cookie lựa chọn), cookie không thiết yếu về mặt kỹ thuật và cơ chế theo dõi có thể được sử dụng cho mục đích tiếp thị hoặc lưu cài đặt người dùng, ví dụ: chỉ được sử dụng nếu bạn đã đưa ra chấp thuận trước về việc sử dụng như vậy. Sau đây, bạn có thể chấp thuận hay rút lại chấp thuận mà bạn đã cấp cho chúng tôi và điều này có hiệu lực ngay lập tức:",
+			"textall": "Ngoại trừ cookie lưu trữ cài đặt quyền riêng tư hiện tại (cookie mặc định), các cookie và cơ chế theo dõi kỹ thuật không cần thiết nhằm cung cấp cho bạn trải nghiệm vượt trội và ưu đãi tùy chỉnh (cookie và cơ chế hiển thị quảng cáo) chỉ được sử dụng khi có sự đồng ý của bạn: Dưới đây, bạn có thể chấp thuận hoặc hủy bỏ sự chấp thuận mà bạn đã đưa ra. Việc này sẽ có hiệu lực tức thì.",
+			"textonlycomfort": "Với ngoại lệ về cookie lưu trữ cài đặt quyền riêng tư hiện tại của bạn (cookie lựa chọn), các cookie không thiết yếu về mặt kỹ thuật giúp cho việc lướt web trở nên thoải mái, tiện lợi và thân thiện hơn (cookie tiện lợi) chỉ được sử dụng nếu bạn đưa ra chấp thuận trước cho việc sử dụng như vậy. Sau đây, bạn có thể chấp thuận hay rút lại chấp thuận mà bạn đã cấp cho chúng tôi và điều này có hiệu lực ngay lập tức:",
+			"textonlymarketing": "Các cookie và cơ chế theo dõi không thiết yếu về mặt kỹ thuật cho phép chúng tôi cung cấp cho bạn trải nghiệm người dùng cao cấp và đề xuất tùy chỉnh (cookie và cơ chế theo dõi tiếp thị) chỉ được sử dụng nếu bạn đưa ra chấp thuận trước cho việc sử dụng như vậy: Sau đây, bạn có thể chấp thuận hay rút lại chấp thuận mà bạn đã cấp cho chúng tôi và điều này có hiệu lực ngay lập tức.",
+			"textuniversal": "Với ngoại lệ về cookie lưu trữ cài đặt quyền riêng tư hiện tại của bạn (cookie lựa chọn), cookie không thiết yếu về mặt kỹ thuật và cơ chế theo dõi có thể được sử dụng cho mục đích tiếp thị hoặc lưu cài đặt người dùng, ví dụ: chỉ được sử dụng nếu bạn đã đưa ra chấp thuận trước về việc sử dụng như vậy. Sau đây, bạn có thể chấp thuận hay rút lại chấp thuận mà bạn đã cấp cho chúng tôi và điều này có hiệu lực ngay lập tức:"
+		},
+		"noCookies": {
+			"title": "Cookie được tắt trong trình duyệt của bạn",
+			"text": "Không có cookie nào được lưu trữ trong trình duyệt của bạn. Do đó, bạn không cần thực hiện bất kỳ cài đặt nào. Vui lòng lưu ý rằng ngay cả các cookie thiết yếu về mặt kỹ thuật không được thiết lập và chức năng của trang web có thể bị ảnh hưởng."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Tiện lợi",
+		"titleSettings": "Cookie tiện lợi",
+		"text": "Nếu không có cookie tiện lợi, các chức năng nhất định giúp cho việc duyệt web thoải mái, tiện lợi và thân thiện với người dùng, ví dụ như lưu ý đến cài đặt của bạn, không khả dụng.",
+		"link": { "label": "Đọc thêm", "ariaLabel": "Thông tin thêm về Cookie tiện lợi" },
+		"button": { "label": "Cho phép sử dụng Cookie tiện lợi" }
+	},
+	"marketingCookieDescription": {
+		"title": "Tiếp thị",
+		"titleSettings": "Cookie và cơ chế theo dõi tiếp thị",
+		"text": "Các cookie và cơ chế theo dõi tiếp thị cho phép chúng tôi cung cấp cho bạn trải nghiệm người dùng cao cấp, cũng như các đề xuất được tùy chỉnh.",
+		"link": { "label": "Đọc thêm", "ariaLabel": "Thêm thông tin về Cookie tiếp thị" },
+		"button": { "label": "Cho phép sử dụng Cookie tiếp thị" }
+	},
+	"general": { "closeAriaLabel": "Đóng", "acceptAllButtonLabel": "Chấp nhận tất cả", "universalButtonLabel": "OK", "save": "Lưu", "reject": "Từ chối" },
+	"smallprint": {
+		"title": "Hủy bỏ sự chấp thuận",
+		"settings": {
+			"text": "Trong phần cài đặt quyền riêng tư cho SETTINGS_LINK này, bạn có thể hủy bỏ sự chấp thuận mà bạn đã đưa ra tại đây bất cứ lúc nào và có hiệu lực tức thì.",
+			"linkLabel": "liên kết",
+			"term": "cài đặt quyền riêng tư"
+		},
+		"policy": {
+			"text": "Vui lòng xem thông báo bảo vệ dữ liệu của chúng tôi để biết thêm chi tiết về vấn đề này POLICY_LINK.",
+			"linkLabel": "liên kết",
+			"term": "Thông báo về bảo vệ dữ liệu"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (thông tin xuất bản)", "term": "Thông tin tập đoàn" },
+		"saveDescription": "Khi bạn nhấp vào \"Lưu\" chỉ những cookie bạn đã chọn mới được sử dụng.",
+		"withdrawDescription": "Trong SETTINGS_LINK, bạn có thể rút lại chấp thuận mà mình đã cấp tại đây bất kỳ lúc nào và điều này có hiệu lực ngay lập tức."
+	}
+}

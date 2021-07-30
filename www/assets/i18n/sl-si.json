@@ -1,0 +1,60 @@
+{
+	"title": { "initialView": "Nastavitve zasebnosti", "editView": "Tukaj lahko prilagodite svoje nastavitve zasebnosti." },
+	"description": {
+		"cookies": {
+			"all": "Na tej spletni strani so nastavljeni piškotki, ki so bistveni iz tehničnih razlogov, da lahko uporabnikom zagotavljamo svojo ponudbo. Nastavljen je tudi piškotek, ki hrani vaše trenutne nastavitve zasebnosti (piškotek z izbiro).",
+			"all2": "Z izjemo piškotka, ki hrani vaše trenutne nastavitve zasebnosti (piškotek z izbiro), se tehnično nebistveni piškotki in mehanizmi sledenja, ki se lahko uporabljajo na primer za trženje ali shranjevanje uporabniških nastavitev, uporabljajo le, če ste s tako uporabo pred tem soglašali:",
+			"onlycomfort": "Na tej spletni strani so nastavljeni piškotki, ki so bistveni iz tehničnih razlogov, da lahko uporabnikom zagotavljamo svojo ponudbo. Nastavljen je tudi piškotek, ki hrani vaše trenutne nastavitve zasebnosti (piškotek z izbiro).",
+			"onlycomfort2": "Z izjemo zgoraj omenjenega piškotka z izbiro se tehnično nebistveni piškotki, ki omogočajo udobnejšo, priročnejšo in uporabniku prijazno uporabo našega spletnega mesta (piškotki za udobno uporabniško izkušnjo), uporabljajo le, če ste s tako uporabo pred tem soglašali.",
+			"onlymarketing": "Na tej spletni strani so nastavljeni piškotki, ki so bistveni iz tehničnih razlogov, da lahko uporabnikom zagotavljamo svojo ponudbo. Nastavljen je tudi piškotek, ki hrani vaše trenutne nastavitve zasebnosti (piškotek z izbiro).",
+			"onlymarketing2": "Tehnično nebistveni piškotki in mehanizmi sledenja, s katerimi vam lahko zagotavljamo vrhunsko uporabniško izkušnjo in prilagojene ponudbe (piškotki za trženje in mehanizmi sledenja), se uporabljajo le, če ste s tako uporabo pred tem soglašali:",
+			"universal": "Na tej spletni strani so nastavljeni piškotki, ki so bistveni iz tehničnih razlogov, da lahko uporabnikom zagotavljamo svojo ponudbo. Nastavljen je tudi piškotek, ki hrani vaše trenutne nastavitve zasebnosti (piškotek z izbiro).",
+			"universal2": "Z izjemo zgoraj omenjenega piškotka z izbiro se tehnično nebistveni piškotki in mehanizmi sledenja, ki se uporabljajo na primer za shranjevanje uporabniških nastavitev ali trženje, uporabljajo le, če ste s tako uporabo pred tem soglašali:"
+		},
+		"deactivate": {
+			"title": "Onemogočanje vseh piškotkov",
+			"text": "Če želite onemogočiti vse piškotke, pojdite v nastavitve brskalnika in onemogočite nastavitev za piškotke. Upoštevajte, da se s tem lahko poslabša delovanje spletnega mesta."
+		},
+		"settings": {
+			"titleall": "Upravljanje nastavitev, ki določajo uporabo tehnično nebistvenih piškotkov in mehanizmov sledenja",
+			"titleonlycomfort": "Upravljanje nastavitev, ki določajo uporabo tehnično nebistvenih piškotkov",
+			"titleonlymarketing": "Upravljanje nastavitev, ki določajo uporabo tehnično nebistvenih piškotkov in mehanizmov sledenja",
+			"titleuniversal": "Z izjemo piškotka, ki hrani vaše trenutne nastavitve zasebnosti (piškotek z izbiro), se tehnično nebistveni piškotki in mehanizmi sledenja, ki se lahko uporabljajo na primer za trženje ali shranjevanje uporabniških nastavitev, uporabljajo le, če ste s tako uporabo pred tem soglašali. Spodaj lahko podate soglasje ali umaknete že podana soglasja – vaša izbira začne veljati takoj:",
+			"textall": "Z izjemo piškotka, ki hrani vaše trenutne nastavitve zasebnosti (piškotek z izbiro), se tehnično nebistveni piškotki in mehanizmi sledenja, ki se lahko uporabljajo na primer za trženje ali shranjevanje uporabniških nastavitev, uporabljajo le, če ste s tako uporabo pred tem soglašali. Spodaj lahko podate soglasje ali umaknete že podana soglasja – vaša izbira začne veljati takoj:",
+			"textonlycomfort": "Z izjemo zgoraj omenjenega piškotka, ki hrani vaše trenutne nastavitve zasebnosti (piškotek z izbiro), se tehnično nebistveni piškotki, ki omogočajo udobnejšo, priročnejšo in uporabniku prijazno uporabo našega spletnega mesta (piškotki za udobno uporabniško izkušnjo), uporabljajo le, če ste s tako uporabo pred tem soglašali. Spodaj lahko podate soglasje ali umaknete že podano soglasje – vaša izbira začne veljati takoj:",
+			"textonlymarketing": "Tehnično nebistveni piškotki in mehanizmi sledenja, s katerimi vam lahko zagotavljamo vrhunsko uporabniško izkušnjo in prilagojene ponudbe (piškotki za trženje in mehanizmi sledenja), se uporabljajo le, če ste s tako uporabo pred tem soglašali. Spodaj lahko podelite svoje soglasje ali ga umaknete, če ste ga že podelili. Vaša izbira začne veljati takoj.",
+			"textuniversal": "Z izjemo piškotka, ki hrani vaše trenutne nastavitve zasebnosti (piškotek z izbiro), se tehnično nebistveni piškotki in mehanizmi sledenja, ki se lahko uporabljajo na primer za trženje ali shranjevanje uporabniških nastavitev, uporabljajo le, če ste s tako uporabo pred tem soglašali. Spodaj lahko podate soglasje ali umaknete že podana soglasja – vaša izbira začne veljati takoj:"
+		},
+		"noCookies": {
+			"title": "Onemogočeni piškotki za brskalnik",
+			"text": "V vašem brskalniku ni shranjenih piškotkov. Zato vam ni treba določiti nobenih nastavitev. Upoštevajte, da niso nastavljeni niti tehnično bistveni piškotki, zato je delovanje spletnega mesta morda slabše."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Udobje",
+		"titleSettings": "Piškotki za udobno uporabniško izkušnjo",
+		"text": "Nekatere funkcije, ki omogočajo udobnejšo, priročnejšo in uporabniku prijazno uporabo našega spletnega mesta (kot so shranjevanje vaših nastavitev), brez piškotkov za udobno uporabniško izkušnjo niso na voljo.",
+		"link": { "label": "Več o tem", "ariaLabel": "Več informacij o piškotkih za udobno uporabniško izkušnjo" },
+		"button": { "label": "Soglašam s piškotki za udobno uporabniško izkušnjo" }
+	},
+	"marketingCookieDescription": {
+		"title": "Trženje",
+		"titleSettings": "Piškotki za trženje in mehanizmi sledenja",
+		"text": "S piškotki za trženje in mehanizmi sledenja vam lahko zagotavljamo vrhunsko uporabniško izkušnjo in prilagojene ponudbe.",
+		"link": { "label": "Več o tem", "ariaLabel": "Več informacij o piškotkih za trženje" },
+		"button": { "label": "Soglašam s piškotki za trženje" }
+	},
+	"general": { "closeAriaLabel": "Zapri", "acceptAllButtonLabel": "Sprejmi vse", "universalButtonLabel": "V redu", "save": "Shrani", "reject": "Zavrni" },
+	"smallprint": {
+		"title": "Umik soglasja",
+		"settings": {
+			"text": "V nastavitvah zasebnosti SETTINGS_LINK lahko kadar koli umaknete soglasje, ki ste ga podelili tukaj. Vaša izbira začne veljati takoj.",
+			"linkLabel": "povezava",
+			"term": "nastavitve zasebnosti"
+		},
+		"policy": { "text": "Za več podrobnosti si oglejte naše informacije o varstvu podatkov: POLICY_LINK.", "linkLabel": "povezava", "term": "Obvestilo o varstvu podatkov" },
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (informacije o objavi)", "term": "Informacije o podjetju" },
+		"saveDescription": "Če kliknete „Shrani“, bodo uporabljeni samo izbrani piškotki.",
+		"withdrawDescription": "Pod možnostjo SETTINGS_LINK lahko kadar koli umaknete soglasje, ki ste ga podali tukaj. Vaša izbira začne veljati takoj."
+	}
+}

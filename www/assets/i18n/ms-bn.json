@@ -1,0 +1,64 @@
+{
+	"title": { "initialView": "Tetapan Privasi", "editView": "Anda boleh melaraskan tetapan privasi anda di sini." },
+	"description": {
+		"cookies": {
+			"all": "Kuki penting atas sebab teknikal ditetapkan pada laman web ini supaya kami boleh menyediakan pengguna dengan tawaran kami. Kuki yang menyimpan tetapan privasi semasa anda juga ditetapkan (kuli pilihan).",
+			"all2": "Dengan pengecualian kuki yang menyimpan tetapan privasi semasa anda (kuki pilihan), kuki tidak penting secara teknikal dan mekanisme penjejakan yang boleh digunakan bagi tujuan pemasaran atau menyimpan tetapan pengguna sebagai contoh, hanya digunakan jika anda telah memberikan keizinan terlebih dahulu bagi penggunaan seumpama itu:",
+			"onlycomfort": "Kuki penting atas sebab teknikal ditetapkan pada laman web ini supaya kami boleh menyediakan pengguna dengan tawaran kami. Kuki yang menyimpan tetapan privasi semasa anda juga ditetapkan (kuli pilihan).",
+			"onlycomfort2": "Dengan pengecualian kuki pilihan yang disebutkan di atas, kuki tidak penting secara teknikal yang menjadikan peluncuran pada laman web kami lebih selesa, mudah dan mesra pengguna (kuki selesa) hanya digunakan jika anda telah memberikan keizinan terlebih dahulu bagi penggunaan seumpama itu.",
+			"onlymarketing": "Kuki penting atas sebab teknikal ditetapkan pada laman web ini supaya kami boleh menyediakan pengguna dengan tawaran kami. Kuki yang menyimpan tetapan privasi semasa anda juga ditetapkan (kuli pilihan).",
+			"onlymarketing2": "Kuki tidak penting secara teknikal dan mekanisme penjejakan yang membolehkan kami menyediakan anda dengan pengalaman pengguna yang lebih hebat dan tawaran yang disesuaikan (kuki pemasaran dan mekanisme penjejakan) hanya digunakan jika anda telah memberikan keizinan bagi penggunaan seumpama itu:",
+			"universal": "Kuki penting atas sebab teknikal ditetapkan pada laman web ini supaya kami boleh menyediakan pengguna dengan tawaran kami. Kuki yang menyimpan tetapan privasi semasa anda juga ditetapkan (kuli pilihan).",
+			"universal2": "Dengan pengecualian kuki pilihan yang disebutkan di atas, kuki tidak penting secara teknikal dan mekanisme penjejakan yang digunakan, sebagai contoh, bagi tujuan menyimpan tetapan pengguna atau pemasaran hanya digunakan jika anda telah memberikan keizinan terlebih dahulu bagi penggunaan seumpama itu:"
+		},
+		"deactivate": {
+			"title": "Lumpuhkan semua kuki",
+			"text": "Jika anda ingin melumpuhkan semua kuki, sila pergi ke tetapan pelayar anda dan lumpuhkan penetapan kuki. Harap maklum bahawa ini boleh menjejaskan fungsi tapak web tersebut."
+		},
+		"settings": {
+			"titleall": "Mengurus tetapan anda yang mentadbir penggunaan kuki tidak penting secara teknikal dan mekanisme penjejakan.",
+			"titleonlycomfort": "Mengurus tetapan anda yang mentadbir penggunaan kuki tidak penting secara teknikal",
+			"titleonlymarketing": "Mengurus tetapan anda yang mentadbir penggunaan kuki tidak penting secara teknikal dan mekanisme penjejakan.",
+			"titleuniversal": "Dengan pengecualian kuki yang menyimpan tetapan privasi semasa anda (kuki pilihan), kuki tidak penting secara teknikal dan mekanisme penjejakan yang boleh digunakan bagi tujuan pemasaran atau menyimpan tetapan pengguna sebagai contoh, hanya digunakan jika anda telah memberikan keizinan terlebih dahulu bagi penggunaan seumpama itu. Di bawah ini, anda boleh memberi keizinan kepada kami atau menarik balik keizinan yang telah anda berikan kepada kami, berkuat kuasa dengan serta-merta:",
+			"textall": "Dengan pengecualian kuki yang menyimpan tetapan privasi semasa anda (kuki pilihan), kuki tidak penting secara teknikal dan mekanisme penjejakan yang boleh digunakan bagi tujuan pemasaran atau menyimpan tetapan pengguna sebagai contoh, hanya digunakan jika anda telah memberikan keizinan terlebih dahulu bagi penggunaan seumpama itu. Di bawah ini, anda boleh memberi keizinan kepada kami atau menarik balik keizinan yang telah anda berikan kepada kami, berkuat kuasa dengan serta-merta:",
+			"textonlycomfort": "Dengan pengecualian kuki yang menyimpan tetapan privasi semasa anda (kuki pilihan), kuki tidak penting secara teknikal yang menjadikan peluncuran pada laman web kami lebih selesa, mudah dan mesra pengguna (kuki selesa) hanya digunakan jika anda telah memberikan keizinan terlebih dahulu bagi penggunaan seumpama itu. Di bawah ini, anda boleh memberi keizinan kepada kami atau menarik balik keizinan yang anda berikan kepada kami, berkuat kuasa dengan serta-merta:",
+			"textonlymarketing": "Kuki tidak penting secara teknikal dan mekanisme penjejakan yang membolehkan kami menyediakan anda dengan pengalaman pengguna yang lebih hebat dan tawaran yang disesuaikan (kuki pemasaran dan mekanisme penjejakan) hanya digunakan jika anda telah memberikan keizinan bagi penggunaan seumpama itu. Di bawah ini, anda boleh memberi keizinan kepada kami atau menarik balik keizinan yang anda berikan kepada kami, berkuat kuasa dengan serta-merta.",
+			"textuniversal": "Dengan pengecualian kuki yang menyimpan tetapan privasi semasa anda (kuki pilihan), kuki tidak penting secara teknikal dan mekanisme penjejakan yang boleh digunakan bagi tujuan pemasaran atau menyimpan tetapan pengguna sebagai contoh, hanya digunakan jika anda telah memberikan keizinan terlebih dahulu bagi penggunaan seumpama itu. Di bawah ini, anda boleh memberi keizinan kepada kami atau menarik balik keizinan yang telah anda berikan kepada kami, berkuat kuasa dengan serta-merta:"
+		},
+		"noCookies": {
+			"title": "Kuki dilumpuhkan dalam pelayar anda",
+			"text": "Tiada kuki yang disimpan dalam pelayar anda. Oleh itu, tiada tetapan yang diperlukan daripada anda. Harap maklum bahawa kuki penting dari segi teknikal juga tidak ditetapkan dan fungsi tapak web mungkin terjejas."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Selesa",
+		"titleSettings": "Kuki selesa",
+		"text": "Tanpa kuki selesa, fungsi tertentu yang memudahkan pelayaran dengan selesa, mudah dan mesra pengguna pada tapak web kami, seperti mencatat tetapan anda, tidak disediakan.",
+		"link": { "label": "Baca lebih lanjut", "ariaLabel": "Maklumat lanjut tentang kuki Selesa" },
+		"button": { "label": "Keizinan kepada kuki Selesa" }
+	},
+	"marketingCookieDescription": {
+		"title": "Pemasaran",
+		"titleSettings": "Kuki pemasaran dan mekanisme penjejakan",
+		"text": "Kuki pemasaran dan mekanisme penjejakan membolehkan kami untuk menyediakan kepada anda pengalaman pengguna yang lebih hebat serta tawaran yang disesuaikan.",
+		"link": { "label": "Baca lebih lanjut", "ariaLabel": "Maklumat lanjut tentang kuki Pemasaran" },
+		"button": { "label": "Keizinan kepada kuki Pemasaran" }
+	},
+	"general": { "closeAriaLabel": "Tutup", "acceptAllButtonLabel": "Terima semua", "universalButtonLabel": "OK", "save": "Simpan", "reject": "Tolak" },
+	"smallprint": {
+		"title": "Penarikan balik keizinan",
+		"settings": {
+			"text": "Di bawah tetapan privasi anda SETTINGS_LINK, anda boleh menarik balik pada bila-bila masa keizinan yang telah anda berikan di sini, berkuat kuasa dengan serta-merta.",
+			"linkLabel": "pautan",
+			"term": "tetapan privasi"
+		},
+		"policy": {
+			"text": "Sila lihat maklumat perlindungan data kami untuk butiran berkenaan perkara ini POLICY_LINK.",
+			"linkLabel": "pautan",
+			"term": "Notis perlindungan data"
+		},
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (maklumat penerbitan)", "term": "Maklumat korporat" },
+		"saveDescription": "Apabila awda mengklik \"Simpan\", hanya kuki yang awda pilih akan digunakan.",
+		"withdrawDescription": "Di bawah SETTINGS_LINK, awda boleh menarik balik pada bila-bila masa keizinan yang telah awda berikan di sini, berkuat kuasa dengan serta-merta."
+	}
+}

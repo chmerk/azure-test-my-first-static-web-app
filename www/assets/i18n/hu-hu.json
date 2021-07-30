@@ -1,0 +1,60 @@
+{
+	"title": { "initialView": "Adatvédelmi beállítások", "editView": "Itt adhatja meg az adatvédelmi beállításait." },
+	"description": {
+		"cookies": {
+			"all": "Ezen a weboldalon a műszaki szempontból lényeges cookie-k állíthatók be, melyek azt a célt szolgálják, hogy felkínálhassuk ajánlatainkat a felhasználóknak. Emellett egy, az Ön adatvédelmi beállításait tároló cookie is beállításra kerül (kiválasztási cookie).",
+			"all2": "Az olyan, műszaki szempontból nem alapvetően fontos cookie-kat és követő mechanizmusokat, amelyek kiváló felhasználói élményt biztosítanak, és személyre szabott ajánlatok megjelenítését teszik lehetővé (marketing cookie-k és követő mechanizmusok), csak akkor használjuk, ha Ön előzetesen hozzájárult:",
+			"onlycomfort": "Ezen a weboldalon a műszaki szempontból lényeges cookie-k állíthatók be, melyek azt a célt szolgálják, hogy felkínálhassuk ajánlatainkat a felhasználóknak. Emellett egy, az Ön adatvédelmi beállításait tároló cookie is beállításra kerül (kiválasztási cookie).",
+			"onlycomfort2": "A fent említett kiválasztási cookie kivételével az olyan, műszaki szempontból nem alapvetően fontos cookie-kat, amelyek kényelmesebbé és felhasználóbarátabbá teszik webhelyünk böngészését (kényelmi cookie-k), csak akkor használjuk, ha Ön előzetes engedélyt adott az ilyen használatra.",
+			"onlymarketing": "Ezen a weboldalon a műszaki szempontból lényeges cookie-k állíthatók be, melyek azt a célt szolgálják, hogy felkínálhassuk ajánlatainkat a felhasználóknak. Emellett egy, az Ön adatvédelmi beállításait tároló cookie is beállításra kerül (kiválasztási cookie).",
+			"onlymarketing2": "Az olyan, műszaki szempontból nem alapvetően fontos cookie-kat és követőmechanizmusokat, amelyek kiváló felhasználói élményt biztosítanak, és személyre szabott ajánlatok megjelenítését teszik lehetővé (marketingcookie-k és követőmechanizmusok), csak akkor használjuk, ha Ön előzetes engedélyt adott az ilyen használatra:",
+			"universal": "Ezen a weboldalon a műszaki szempontból lényeges cookie-k állíthatók be, melyek azt a célt szolgálják, hogy felkínálhassuk ajánlatainkat a felhasználóknak. Emellett egy, az Ön adatvédelmi beállításait tároló cookie is beállításra kerül (kiválasztási cookie).",
+			"universal2": "A fent említett kiválasztási cookie kivételével az olyan, műszaki szempontból nem alapvetően fontos cookie-kat és követőmechanizmusokat, amelyek például a felhasználói beállítások mentését teszik lehetővé, illetve marketingcélokat szolgálnak, csak akkor használjuk, ha Ön előzetes engedélyt adott az ilyen használatra:"
+		},
+		"deactivate": {
+			"title": "Az összes cookie letiltása",
+			"text": "Ha le szeretné tiltani az összes cookie-t, lépjen a böngésző beállításaihoz, és deaktiválja a cookie-k beállítását. Kérjük, vegye figyelembe, hogy ezáltal előfordulhat, hogy a webhely egyes funkciói nem fognak megfelelően működni."
+		},
+		"settings": {
+			"titleall": "A műszaki szempontból nem alapvető cookie-k és követőmechanizmusok használatára vonatkozó beállítások kezelése",
+			"titleonlycomfort": "A műszaki szempontból nem alapvető cookie-k használatára vonatkozó beállítások kezelése",
+			"titleonlymarketing": "A műszaki szempontból nem alapvető cookie-k és követőmechanizmusok használatára vonatkozó beállítások kezelése",
+			"titleuniversal": "Az Ön aktuális adatvédelmi beállításait tároló cookie (kiválasztási cookie) kivételével az olyan, műszaki szempontból nem alapvetően fontos cookie-kat és követőmechanizmusokat, amelyek például marketingcélokra vagy a felhasználói beállítások mentésére használhatók, csak akkor használjuk, ha Ön előzetes engedélyt adott az ilyen használatra. Az alábbiakban megadhatja a hozzájárulását, illetve azonnali hatállyal visszavonhatja a korábban megadott hozzájárulását:",
+			"textall": "Az Ön aktuális adatvédelmi beállításait tároló cookie (kiválasztási cookie) kivételével az olyan, műszaki szempontból nem alapvetően fontos cookie-kat és követőmechanizmusokat, amelyek például marketingcélokra vagy a felhasználói beállítások mentésére használhatók, csak akkor használjuk, ha Ön előzetes engedélyt adott az ilyen használatra. Az alábbiakban megadhatja a hozzájárulását, illetve azonnali hatállyal visszavonhatja a korábban megadott hozzájárulását:",
+			"textonlycomfort": "Az Ön aktuális adatvédelmi beállításait tároló cookie (kiválasztási cookie) kivételével az olyan, műszaki szempontból nem alapvetően fontos cookie-kat, amelyek kényelmesebbé és felhasználóbarátabbá teszik webhelyünk böngészését (kényelmi cookie-k), csak akkor használjuk, ha Ön előzetes engedélyt adott az ilyen használatra. Az alábbiakban megadhatja a hozzájárulását, illetve azonnali hatállyal visszavonhatja a korábban megadott hozzájárulását:",
+			"textonlymarketing": "Az olyan, műszaki szempontból nem alapvetően fontos cookie-kat és követő mechanizmusokat, amelyek kiváló felhasználói élményt biztosítanak, és személyre szabott ajánlatok megjelenítését teszik lehetővé (marketing cookie-k és követő mechanizmusok), csak akkor használjuk, ha Ön előzetesen hozzájárult. Az alábbiakban megadhatja a hozzájárulását, illetve azonnali hatállyal visszavonhatja a korábban megadott hozzájárulását.",
+			"textuniversal": "Az Ön aktuális adatvédelmi beállításait tároló cookie (kiválasztási cookie) kivételével az olyan, műszaki szempontból nem alapvetően fontos cookie-kat és követőmechanizmusokat, amelyek például marketingcélokra vagy a felhasználói beállítások mentésére használhatók, csak akkor használjuk, ha Ön előzetes engedélyt adott az ilyen használatra. Az alábbiakban megadhatja a hozzájárulását, illetve azonnali hatállyal visszavonhatja a korábban megadott hozzájárulását:"
+		},
+		"noCookies": {
+			"title": "A cookie-k le vannak tiltva a böngészőjében",
+			"text": "Nem tárolunk cookie-kat a böngészőjében. Emiatt nem szükséges beállításokat végeznie. Kérjük, vegye figyelembe, hogy még a műszaki szempontból nélkülözhetetlen cookie-k sincsenek beállítva, így előfordulhat, hogy a webhely egyes funkciói nem fognak megfelelően működni."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Kényelmi",
+		"titleSettings": "Kényelmi cookie-k",
+		"text": "A kényelmi cookie-k nélkül nem áll majd rendelkezésre néhány olyan funkció, amelyik a kényelmes és felhasználóbarát böngészést teszi lehetővé a webhelyünkön (pl. a beállítások megjegyzése).",
+		"link": { "label": "Továbbiak elolvasása", "ariaLabel": "További információ a kényelmi cookie-król" },
+		"button": { "label": "Hozzájárulás a kényelmi cookie-k használatához" }
+	},
+	"marketingCookieDescription": {
+		"title": "Marketing",
+		"titleSettings": "Marketingcookie-k és követő mechanizmusok",
+		"text": "A marketingcookie-k és a követőmechanizmusok lehetővé teszik számunkra, hogy kiváló felhasználói élményt és személyre szabott ajánlatokat nyújtsunk Önnek.",
+		"link": { "label": "Továbbiak elolvasása", "ariaLabel": "További információk a marketingcookie-król" },
+		"button": { "label": "Hozzájárulás a marketingcookie-k használatához" }
+	},
+	"general": { "closeAriaLabel": "Bezárás", "acceptAllButtonLabel": "Az összes elfogadása", "universalButtonLabel": "OK", "save": "Mentés", "reject": "Elutasítás" },
+	"smallprint": {
+		"title": "A hozzájárulás visszavonása",
+		"settings": {
+			"text": "Adatvédelmi beállításainál (SETTINGS_LINK) bármikor, azonnali hatállyal visszavonhatja az itt megadott hozzájárulását.",
+			"linkLabel": "hivatkozás",
+			"term": "adatvédelmi beállítások"
+		},
+		"policy": { "text": "A részletekért kérjük, tekintse meg adatvédelmi tájékoztatónkat POLICY_LINK.", "linkLabel": "hivatkozás", "term": "Adatvédelmi nyilatkozat" },
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impresszum (kiadási információk)", "term": "Vállalati információk" },
+		"saveDescription": "A „Mentés” lehetőségre kattintást követően csak a kiválasztott cookie-kat használja a rendszer.",
+		"withdrawDescription": "A(z) SETTINGS_LINK részen bármikor, azonnali hatállyal visszavonhatja az itt megadott hozzájárulását."
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"title": { "initialView": "Socruithe Príobháideachta", "editView": "Is féidir leat do shocruithe príobháideachta a oiriúnú anseo." },
+	"description": {
+		"cookies": {
+			"all": "Tá fianáin atá riachtanach le haghaidh cúiseanna teicniúla socraithe ar an leathanach Gréasáin seo ionas gur féidir linn ár dtairiscintí a chur ar fáil d'úsáideoirí. Tá fianán a stórálann do shocruithe príobháideachais reatha socraithe chomh maith (fianán roghnúcháin).",
+			"all2": "Ní úsáidtear fianáin, ach amháin an fianán a stórálannn do shocruithe príobháideachais reatha (fianán roghnúcháin) agus sásraí rianaithe atá neamhriachtanach go teicniúil ar féidir iad a úsáid chun críocha margaíochta nó chun socruithe úsáideora a shábháil, mar shampla, ach má thoiligh tú roimh ré d'úsáid den sórt sin:",
+			"onlycomfort": "Tá fianáin atá riachtanach le haghaidh cúiseanna teicniúla socraithe ar an leathanach Gréasáin seo ionas gur féidir linn ár dtairiscintí a chur ar fáil d'úsáideoirí. Tá fianán a stórálann do shocruithe príobháideachais reatha socraithe chomh maith (fianán roghnúcháin).",
+			"onlycomfort2": "Ní úsáidtear fianáin atá neamhriachtanach go teicniúil, ach amháin an fianán roghnúcháin thuasluaite, arb é an aidhm atá leo scimeáil ar ár suíomh Gréasáin a dhéanamh níos compordaí, níos áisiúla agus níos cairdiúla (fianáin chompoird) ach amháin má thoiligh tú roimh ré d'úsáid den sórt sin.",
+			"onlymarketing": "Tá fianáin atá riachtanach le haghaidh cúiseanna teicniúla socraithe ar an leathanach Gréasáin seo ionas gur féidir linn ár dtairiscintí a chur ar fáil d'úsáideoirí. Tá fianán a stórálann do shocruithe príobháideachais reatha socraithe chomh maith (fianán roghnúcháin).",
+			"onlymarketing2": "Ní úsáidtear fianáin agus sásraí rianaithe atá neamhriachtanach go teicniúil a chuireann ar ár gcumas ard-eispéireas úsáideoirí agus tairiscintí saincheaptha (fianáin mhargaíochta agus sásraí rianaithe) a chur ar fáil duit ach amháin má thoiligh tú roimh ré d'úsáid den sórt sin:",
+			"universal": "Tá fianáin atá riachtanach le haghaidh cúiseanna teicniúla socraithe ar an leathanach Gréasáin seo ionas gur féidir linn ár dtairiscintí a chur ar fáil d'úsáideoirí. Tá fianán a stórálann do shocruithe príobháideachais reatha socraithe chomh maith (fianán roghnúcháin).",
+			"universal2": "Ní úsáidtear fianáin, ach amháin an fianán roghnúcháin thuasluaite, agus sásraí rianaithe atá neamhriachtanach go teicniúil a fheidhmíonn mar shampla chun socruithe úsáideora a shábháil nó chun críocha margaíochta, ach má thoiligh tú roimh ré d'úsáid den sórt sin:"
+		},
+		"deactivate": {
+			"title": "Díchumasaigh gach fianán",
+			"text": "Más mian leat gach fianán a dhíchumasú, téigh go dtí do shocruithe brabhsálaí agus díghníomhachtaigh socrú na bhfianán. Tabhair faoi deara go bhféadfadh sé sin feidhmiúlacht an tsuímh ghréasáin a lagú."
+		},
+		"settings": {
+			"titleall": "Do shocruithe a rialaíonn úsáid fianán agus sásraí rianaithe atá neamhriachtanach go teicniúil a bhainistiú",
+			"titleonlycomfort": "Do shocruithe a rialaíonn úsáid fianán atá neamhriachtanach go teicniúil a bhainistiú",
+			"titleonlymarketing": "Do shocruithe a rialaíonn úsáid fianán agus sásraí rianaithe atá neamhriachtanach go teicniúil a bhainistiú",
+			"titleuniversal": "Ní úsáidtear fianáin, ach amháin an fianán a stórálannn do shocruithe príobháideachais reatha (fianán roghnúcháin) agus sásraí rianaithe atá neamhriachtanach go teicniúil ar féidir iad a úsáid chun críocha margaíochta nó chun socruithe úsáideora a shábháil, mar shampla, ach má thoiligh tú roimh ré d'úsáid den sórt sin. Anseo thíos, is féidir leat toiliú a thabhairt nó toiliú atá tugtha agat a aistarraingt, le héifeacht láithreach:",
+			"textall": "Ní úsáidtear fianáin, ach amháin an fianán a stórálannn do shocruithe príobháideachais reatha (fianán roghnúcháin) agus sásraí rianaithe atá neamhriachtanach go teicniúil ar féidir iad a úsáid chun críocha margaíochta nó chun socruithe úsáideora a shábháil, mar shampla, ach má thoiligh tú roimh ré d'úsáid den sórt sin. Anseo thíos, is féidir leat toiliú a thabhairt nó toiliú atá tugtha agat a aistarraingt, le héifeacht láithreach:",
+			"textonlycomfort": "Ní úsáidtear fianáin atá neamhriachtanach go teicniúil, ach amháin an fianán a stórálann do shocruithe príobháideachais reatha (fianán roghnúcháin), arb é an aidhm atá leo scimeáil ar ár suíomh Gréasáin a dhéanamh níos compordaí, níos áisiúla agus níos cairdiúla (fianáin chompoird) ach amháin má thoiligh tú roimh ré d'úsáid den sórt sin. Anseo thíos, is féidir leat toiliú a thabhairt nó an toiliú atá tugtha agat a tharraingt siar, le héifeacht láithreach:",
+			"textonlymarketing": "Ní úsáidtear fianáin agus sásraí rianaithe atá neamhriachtanach go teicniúil a chuireann ar ár gcumas ard-eispéireas úsáideoirí agus tairiscintí saincheaptha (fianáin mhargaíochta agus sásraí rianaithe) a chur ar fáil duit ach amháin má thoiligh tú roimh ré d'úsáid den sórt sin. Anseo thíos, is féidir leat toiliú a thabhairt nó an toiliú atá tugtha agat a tharraingt siar, le héifeacht láithreach.",
+			"textuniversal": "Ní úsáidtear fianáin, ach amháin an fianán a stórálannn do shocruithe príobháideachais reatha (fianán roghnúcháin) agus sásraí rianaithe atá neamhriachtanach go teicniúil ar féidir iad a úsáid chun críocha margaíochta nó chun socruithe úsáideora a shábháil, mar shampla, ach má thoiligh tú roimh ré d'úsáid den sórt sin. Anseo thíos, is féidir leat toiliú a thabhairt nó toiliú atá tugtha agat a aistarraingt, le héifeacht láithreach:"
+		},
+		"noCookies": {
+			"title": "Tá fianáin díchumasaithe i do bhrabhsálaí",
+			"text": "Níl aon fhianáin stóráilte i do bhrabhsálaí. Dá bhrí sin, ní gá duit socruithe a roghnú. Tabhair faoi deara nach bhfuil fiú fianáin atá riachtanach go teicniúil socraithe agus go bhféadfadh go mbeadh feidhm an tsuímh ghréasáin lagaithe."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Compord",
+		"titleSettings": "Fianáin chompoird",
+		"text": "Gan fianáin chompoird, níl feidhmeanna áirithe a éascaíonn scimeáil chompordach, áisiúil agus chairdiúil ar ár suíomh gréasáin, cosúil le do shocruithe a thabhairt faoi deara, ar fáil.",
+		"link": { "label": "Léigh níos mó", "ariaLabel": "Tuilleadh faisnéise faoi fhianáin Chompoird" },
+		"button": { "label": "Toiligh d'fhianáin Chompoird" }
+	},
+	"marketingCookieDescription": {
+		"title": "Margaíocht",
+		"titleSettings": "Fianáin mhargaíochta agus sásraí rianaithe",
+		"text": "Cuireann fianáin mhargaíochta agus sásraí rianaithe ar ár gcumas ard-eispéireas úsáideoirí mar aon le tairiscintí saincheaptha a chur ar fáil duit.",
+		"link": { "label": "Léigh níos mó", "ariaLabel": "Tuilleadh faisnéise faoi fhianáin Mhargaíochta" },
+		"button": { "label": "Toiligh d'fhianáin Mhargaíochta" }
+	},
+	"general": { "closeAriaLabel": "Dún", "acceptAllButtonLabel": "Glac leo go léir", "universalButtonLabel": "OK", "save": "Sábháil", "reject": "Diúltaigh" },
+	"smallprint": {
+		"title": "Tarraing siar toiliú",
+		"settings": {
+			"text": "Faoi do shocruithe príobháideachta SETTINGS_LINK, is féidir leat an toiliú a thug tú anseo a tharraint siar ag am ar bith, le héifeacht láithreach.",
+			"linkLabel": "nasc",
+			"term": "socruithe príobháideachta"
+		},
+		"policy": { "text": "Féach ar ár bhfaisnéis cosanta sonraí le haghaidh sonraí maidir leis sin POLICY_LINK.", "linkLabel": "nasc", "term": "Fógra faoi chosaint sonraí" },
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (faisnéis foilsitheoireachta)", "term": "Faisnéis chorparáideach" },
+		"saveDescription": "Nuair a chliceáiltear “Sábháil”, ní úsáidfear ach na fianáin atá roghnaithe agat.",
+		"withdrawDescription": "Faoi na SETTINGS_LINK, is féidir leat an toiliú a thug tú anseo a tharraingt siar am ar bith, le héifeacht láithreach."
+	}
+}

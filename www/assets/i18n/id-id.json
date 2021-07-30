@@ -1,0 +1,60 @@
+{
+	"title": { "initialView": "Pengaturan Privasi", "editView": "Anda dapat menyesuaikan pengaturan privasi di sini." },
+	"description": {
+		"cookies": {
+			"all": "Cookie yang penting untuk alasan teknis ditetapkan di halaman web ini agar kami dapat memberikan penawaran kepada pengguna. Cookie yang menyimpan pengaturan privasi Anda saat ini juga ditetapkan (cookie pilihan).",
+			"all2": "Kecuali cookie yang menyimpan pengaturan privasi Anda saat ini (cookie pilihan), cookie yang tidak penting secara teknis dan mekanisme pelacakan yang dapat digunakan misalnya untuk tujuan pemasaran atau untuk menyimpan pengaturan pengguna hanya digunakan jika Anda telah memberikan persetujuan sebelumnya atas penggunaan tersebut:",
+			"onlycomfort": "Cookie yang penting untuk alasan teknis ditetapkan di halaman web ini agar kami dapat memberikan penawaran kepada pengguna. Cookie yang menyimpan pengaturan privasi Anda saat ini juga ditetapkan (cookie pilihan).",
+			"onlycomfort2": "Kecuali cookie pilihan yang disebutkan di atas, cookie yang tidak penting secara teknis yang membuat penjelajahan di situs web kami menjadi lebih nyaman, praktis, dan mudah digunakan pengguna (cookie kenyamanan) hanya digunakan jika Anda telah memberikan persetujuan sebelumnya atas penggunaan tersebut.",
+			"onlymarketing": "Cookie yang penting untuk alasan teknis ditetapkan di halaman web ini agar kami dapat memberikan penawaran kepada pengguna. Cookie yang menyimpan pengaturan privasi Anda saat ini juga ditetapkan (cookie pilihan).",
+			"onlymarketing2": "Cookie yang tidak penting secara teknis dan mekanisme pelacakan yang memungkinkan kami memberi Anda pengalaman pengguna yang unggul dan penawaran khusus (cookie pemasaran dan mekanisme pelacakan) hanya digunakan jika Anda telah memberikan persetujuan sebelumnya atas penggunaan tersebut:",
+			"universal": "Cookie yang penting untuk alasan teknis ditetapkan di halaman web ini agar kami dapat memberikan penawaran kepada pengguna. Cookie yang menyimpan pengaturan privasi Anda saat ini juga ditetapkan (cookie pilihan).",
+			"universal2": "Kecuali cookie pilihan yang disebutkan di atas, cookie yang tidak penting secara teknis dan mekanisme pelacakan yang berfungsi misalnya untuk menyimpan pengaturan pengguna atau untuk tujuan pemasaran hanya digunakan jika Anda telah memberikan persetujuan sebelumnya atas penggunaan tersebut:"
+		},
+		"deactivate": {
+			"title": "Nonaktifkan semua cookie",
+			"text": "Jika Anda ingin menonaktifkan semua cookie, buka pengaturan browser, lalu nonaktifkan pengaturan cookie. Perhatikan bahwa tindakan ini dapat mengganggu fungsi situs web."
+		},
+		"settings": {
+			"titleall": "Mengelola pengaturan Anda yang mengatur penggunaan cookie yang tidak penting secara teknis dan mekanisme pelacakan",
+			"titleonlycomfort": "Mengelola pengaturan Anda yang mengatur penggunaan cookie yang tidak penting secara teknis",
+			"titleonlymarketing": "Mengelola pengaturan Anda yang mengatur penggunaan cookie yang tidak penting secara teknis dan mekanisme pelacakan",
+			"titleuniversal": "Kecuali cookie yang menyimpan pengaturan privasi Anda saat ini (cookie pilihan), cookie yang tidak penting secara teknis dan mekanisme pelacakan yang dapat digunakan misalnya untuk tujuan pemasaran atau untuk menyimpan pengaturan pengguna hanya digunakan jika Anda telah memberikan persetujuan sebelumnya atas penggunaan tersebut. Di bawah ini, Anda dapat memberi kami persetujuan atau menarik persetujuan yang Anda berikan kepada kami, yang berlaku dengan segera:",
+			"textall": "Kecuali cookie yang menyimpan pengaturan privasi Anda saat ini (cookie pilihan), cookie yang tidak penting secara teknis dan mekanisme pelacakan yang dapat digunakan misalnya untuk tujuan pemasaran atau untuk menyimpan pengaturan pengguna hanya digunakan jika Anda telah memberikan persetujuan sebelumnya atas penggunaan tersebut. Di bawah ini, Anda dapat memberi kami persetujuan atau menarik persetujuan yang Anda berikan kepada kami, yang berlaku dengan segera:",
+			"textonlycomfort": "Kecuali cookie yang menyimpan pengaturan privasi Anda saat ini (cookie pilihan), cookie yang tidak penting secara teknis yang membuat penjelajahan di situs web kami menjadi lebih nyaman, praktis, dan mudah digunakan pengguna (cookie kenyamanan) hanya digunakan jika Anda telah memberikan persetujuan sebelumnya atas penggunaan tersebut. Di bawah ini, Anda dapat memberi kami persetujuan atau menarik persetujuan yang Anda berikan kepada kami, yang berlaku dengan segera:",
+			"textonlymarketing": "Cookie yang tidak penting secara teknis dan mekanisme pelacakan yang memungkinkan kami memberi Anda pengalaman pengguna yang unggul dan penawaran khusus (cookie pemasaran dan mekanisme pelacakan) hanya digunakan jika Anda telah memberikan persetujuan sebelumnya atas penggunaan tersebut. Di bawah ini, Anda dapat memberi kami persetujuan atau menarik persetujuan yang Anda berikan kepada kami, yang berlaku dengan segera.",
+			"textuniversal": "Kecuali cookie yang menyimpan pengaturan privasi Anda saat ini (cookie pilihan), cookie yang tidak penting secara teknis dan mekanisme pelacakan yang dapat digunakan misalnya untuk tujuan pemasaran atau untuk menyimpan pengaturan pengguna hanya digunakan jika Anda telah memberikan persetujuan sebelumnya atas penggunaan tersebut. Di bawah ini, Anda dapat memberi kami persetujuan atau menarik persetujuan yang Anda berikan kepada kami, yang berlaku dengan segera:"
+		},
+		"noCookies": {
+			"title": "Cookie dinonaktifkan di browser Anda",
+			"text": "Tidak ada cookie yang disimpan di browser Anda. Oleh karena itu, pengaturan Anda tidak diperlukan. Perhatikan bahwa cookie yang tidak penting secara teknis tidak ditetapkan dan fungsi situs web dapat terganggu."
+		}
+	},
+	"comfortCookieDescription": {
+		"title": "Kenyamanan",
+		"titleSettings": "Cookie Kenyamanan",
+		"text": "Tanpa cookie kenyamanan, sejumlah fungsi tertentu yang memfasilitasi penjelajahan yang seru, nyaman, dan mudah digunakan pengguna di situs web kami, seperti mencatat pengaturan, tidak tersedia.",
+		"link": { "label": "Baca selengkapnya", "ariaLabel": "Informasi lebih lanjut tentang cookie Kenyamanan" },
+		"button": { "label": "Persetujuan cookie Kenyamanan" }
+	},
+	"marketingCookieDescription": {
+		"title": "Pemasaran",
+		"titleSettings": "Cookie pemasaran dan mekanisme pelacakan",
+		"text": "Cookie pemasaran dan mekanisme pelacakan memberi Anda pengalaman pengguna yang unggul dan penawaran khusus.",
+		"link": { "label": "Baca selengkapnya", "ariaLabel": "Informasi lebih lanjut tentang cookie Pemasaran" },
+		"button": { "label": "Persetujuan cookie Pemasaran" }
+	},
+	"general": { "closeAriaLabel": "Tutup", "acceptAllButtonLabel": "Terima semua", "universalButtonLabel": "OK", "save": "Simpan", "reject": "Tolak" },
+	"smallprint": {
+		"title": "Penarikan persetujuan",
+		"settings": {
+			"text": "Pada pengaturan privasi SETTINGS_LINK, Anda dapat menarik persetujuan yang Anda berikan kapan saja di sini, yang berlaku dengan segera.",
+			"linkLabel": "tautan",
+			"term": "pengaturan privasi"
+		},
+		"policy": { "text": "Lihat informasi perlindungan data kami untuk detail terkait POLICY_LINK ini.", "linkLabel": "tautan", "term": "Pemberitahuan perlindungan data" },
+		"imprint": { "text": "IMPRINT_LINK", "linkLabel": "Impressum (mempublikasikan informasi)", "term": "Informasi perusahaan" },
+		"saveDescription": "Jika Anda mengklik ”Simpan”, hanya cookie yang Anda pilih yang akan digunakan.",
+		"withdrawDescription": "Pada SETTINGS_LINK, Anda dapat mencabut izin yang Anda berikan kapan saja di sini, yang berlaku dengan segera."
+	}
+}
