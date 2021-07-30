@@ -1,1 +1,0 @@
-import{h as o}from"./p-04912259.js";const r={"background-color":"red",color:"white",display:"inline-block",padding:"3px"},i=i=>o("div",{style:r},i);export{i as r}

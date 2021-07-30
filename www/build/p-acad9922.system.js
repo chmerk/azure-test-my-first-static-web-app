@@ -1,1 +1,0 @@
-System.register(["./p-5c609644.system.js"],(function(e){"use strict";var r;return{setters:[function(e){r=e.h}],execute:function(){var t={"background-color":"red",color:"white",display:"inline-block",padding:"3px"};var n=e("r",(function(e){return r("div",{style:t},e)}))}}}));

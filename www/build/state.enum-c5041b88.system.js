@@ -1,1 +1,0 @@
-System.register([],(function(r){"use strict";return{execute:function(){r("S",void 0);var n;(function(r){r["neutral"]="neutral";r["information"]="information";r["success"]="success";r["warning"]="warning";r["error"]="error"})(n||(n=r("S",{})))}}}));

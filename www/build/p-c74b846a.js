@@ -1,1 +1,0 @@
-var r;!function(r){r.neutral="neutral",r.information="information",r.success="success",r.warning="warning",r.error="error"}(r||(r={}));export{r as S}
